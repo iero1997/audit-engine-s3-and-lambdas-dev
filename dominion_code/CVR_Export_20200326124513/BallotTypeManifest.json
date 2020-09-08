@@ -1,0 +1,905 @@
+{
+    "Version": "5.10.11.24",
+    "List": [
+        {
+            "Description": "Ballot Type 4 Democratic",
+            "Id": 1,
+            "ExternalId": "4"
+        },
+        {
+            "Description": "Ballot Type 1 Democratic",
+            "Id": 2,
+            "ExternalId": "1"
+        },
+        {
+            "Description": "Ballot Type 4 Democratic NPP",
+            "Id": 3,
+            "ExternalId": "4"
+        },
+        {
+            "Description": "Ballot Type 1 Democratic NPP",
+            "Id": 4,
+            "ExternalId": "1"
+        },
+        {
+            "Description": "Ballot Type 1 Republican",
+            "Id": 5,
+            "ExternalId": "1"
+        },
+        {
+            "Description": "Ballot Type 4 Republican",
+            "Id": 6,
+            "ExternalId": "4"
+        },
+        {
+            "Description": "Ballot Type 4 American Independent",
+            "Id": 7,
+            "ExternalId": "4"
+        },
+        {
+            "Description": "Ballot Type 1 American Independent",
+            "Id": 8,
+            "ExternalId": "1"
+        },
+        {
+            "Description": "Ballot Type 1 American Independent NPP",
+            "Id": 9,
+            "ExternalId": "1"
+        },
+        {
+            "Description": "Ballot Type 4 American Independent NPP",
+            "Id": 10,
+            "ExternalId": "4"
+        },
+        {
+            "Description": "Ballot Type 1 Peace and Freedom",
+            "Id": 11,
+            "ExternalId": "1"
+        },
+        {
+            "Description": "Ballot Type 4 Peace and Freedom",
+            "Id": 12,
+            "ExternalId": "4"
+        },
+        {
+            "Description": "Ballot Type 1 Libertarian",
+            "Id": 13,
+            "ExternalId": "1"
+        },
+        {
+            "Description": "Ballot Type 4 Libertarian",
+            "Id": 14,
+            "ExternalId": "4"
+        },
+        {
+            "Description": "Ballot Type 1 Libertarian NPP",
+            "Id": 15,
+            "ExternalId": "1"
+        },
+        {
+            "Description": "Ballot Type 4 Libertarian NPP",
+            "Id": 16,
+            "ExternalId": "4"
+        },
+        {
+            "Description": "Ballot Type 1 Green",
+            "Id": 17,
+            "ExternalId": "1"
+        },
+        {
+            "Description": "Ballot Type 4 Green",
+            "Id": 18,
+            "ExternalId": "4"
+        },
+        {
+            "Description": "Ballot Type 1 Non-Partisan",
+            "Id": 19,
+            "ExternalId": "1"
+        },
+        {
+            "Description": "Ballot Type 4 Non-Partisan",
+            "Id": 20,
+            "ExternalId": "4"
+        },
+        {
+            "Description": "Ballot Type 1 Democratic By Type",
+            "Id": 21,
+            "ExternalId": "1"
+        },
+        {
+            "Description": "Ballot Type 4 Democratic By Type",
+            "Id": 22,
+            "ExternalId": "4"
+        },
+        {
+            "Description": "Ballot Type 1 Democratic NPP By Type",
+            "Id": 23,
+            "ExternalId": "1"
+        },
+        {
+            "Description": "Ballot Type 4 Democratic NPP By Type",
+            "Id": 24,
+            "ExternalId": "4"
+        },
+        {
+            "Description": "Ballot Type 4 Republican By Type",
+            "Id": 25,
+            "ExternalId": "4"
+        },
+        {
+            "Description": "Ballot Type 1 Republican By Type",
+            "Id": 26,
+            "ExternalId": "1"
+        },
+        {
+            "Description": "Ballot Type 1 American Independent By Type",
+            "Id": 27,
+            "ExternalId": "1"
+        },
+        {
+            "Description": "Ballot Type 4 American Independent By Type",
+            "Id": 28,
+            "ExternalId": "4"
+        },
+        {
+            "Description": "Ballot Type 4 American Independent NPP By Type",
+            "Id": 29,
+            "ExternalId": "4"
+        },
+        {
+            "Description": "Ballot Type 1 American Independent NPP By Type",
+            "Id": 30,
+            "ExternalId": "1"
+        },
+        {
+            "Description": "Ballot Type 4 Peace and Freedom By Type",
+            "Id": 31,
+            "ExternalId": "4"
+        },
+        {
+            "Description": "Ballot Type 1 Peace and Freedom By Type",
+            "Id": 32,
+            "ExternalId": "1"
+        },
+        {
+            "Description": "Ballot Type 4 Libertarian By Type",
+            "Id": 33,
+            "ExternalId": "4"
+        },
+        {
+            "Description": "Ballot Type 1 Libertarian By Type",
+            "Id": 34,
+            "ExternalId": "1"
+        },
+        {
+            "Description": "Ballot Type 1 Libertarian NPP By Type",
+            "Id": 35,
+            "ExternalId": "1"
+        },
+        {
+            "Description": "Ballot Type 4 Libertarian NPP By Type",
+            "Id": 36,
+            "ExternalId": "4"
+        },
+        {
+            "Description": "Ballot Type 1 Green By Type",
+            "Id": 37,
+            "ExternalId": "1"
+        },
+        {
+            "Description": "Ballot Type 4 Green By Type",
+            "Id": 38,
+            "ExternalId": "4"
+        },
+        {
+            "Description": "Ballot Type 1 Non-Partisan By Type",
+            "Id": 39,
+            "ExternalId": "1"
+        },
+        {
+            "Description": "Ballot Type 4 Non-Partisan By Type",
+            "Id": 40,
+            "ExternalId": "4"
+        },
+        {
+            "Description": "Ballot Type 2 Democratic",
+            "Id": 41,
+            "ExternalId": "2"
+        },
+        {
+            "Description": "Ballot Type 3 Democratic",
+            "Id": 42,
+            "ExternalId": "3"
+        },
+        {
+            "Description": "Ballot Type 2 Democratic NPP",
+            "Id": 43,
+            "ExternalId": "2"
+        },
+        {
+            "Description": "Ballot Type 3 Democratic NPP",
+            "Id": 44,
+            "ExternalId": "3"
+        },
+        {
+            "Description": "Ballot Type 2 Republican",
+            "Id": 45,
+            "ExternalId": "2"
+        },
+        {
+            "Description": "Ballot Type 3 Republican",
+            "Id": 46,
+            "ExternalId": "3"
+        },
+        {
+            "Description": "Ballot Type 3 American Independent",
+            "Id": 47,
+            "ExternalId": "3"
+        },
+        {
+            "Description": "Ballot Type 2 American Independent",
+            "Id": 48,
+            "ExternalId": "2"
+        },
+        {
+            "Description": "Ballot Type 2 American Independent NPP",
+            "Id": 49,
+            "ExternalId": "2"
+        },
+        {
+            "Description": "Ballot Type 3 American Independent NPP",
+            "Id": 50,
+            "ExternalId": "3"
+        },
+        {
+            "Description": "Ballot Type 2 Peace and Freedom",
+            "Id": 51,
+            "ExternalId": "2"
+        },
+        {
+            "Description": "Ballot Type 3 Peace and Freedom",
+            "Id": 52,
+            "ExternalId": "3"
+        },
+        {
+            "Description": "Ballot Type 2 Libertarian",
+            "Id": 53,
+            "ExternalId": "2"
+        },
+        {
+            "Description": "Ballot Type 3 Libertarian",
+            "Id": 54,
+            "ExternalId": "3"
+        },
+        {
+            "Description": "Ballot Type 2 Libertarian NPP",
+            "Id": 55,
+            "ExternalId": "2"
+        },
+        {
+            "Description": "Ballot Type 3 Libertarian NPP",
+            "Id": 56,
+            "ExternalId": "3"
+        },
+        {
+            "Description": "Ballot Type 2 Green",
+            "Id": 57,
+            "ExternalId": "2"
+        },
+        {
+            "Description": "Ballot Type 3 Green",
+            "Id": 58,
+            "ExternalId": "3"
+        },
+        {
+            "Description": "Ballot Type 2 Non-Partisan",
+            "Id": 59,
+            "ExternalId": "2"
+        },
+        {
+            "Description": "Ballot Type 3 Non-Partisan",
+            "Id": 60,
+            "ExternalId": "3"
+        },
+        {
+            "Description": "Ballot Type 3 Democratic By Type",
+            "Id": 61,
+            "ExternalId": "3"
+        },
+        {
+            "Description": "Ballot Type 2 Democratic By Type",
+            "Id": 62,
+            "ExternalId": "2"
+        },
+        {
+            "Description": "Ballot Type 3 Democratic NPP By Type",
+            "Id": 63,
+            "ExternalId": "3"
+        },
+        {
+            "Description": "Ballot Type 2 Democratic NPP By Type",
+            "Id": 64,
+            "ExternalId": "2"
+        },
+        {
+            "Description": "Ballot Type 2 Republican By Type",
+            "Id": 65,
+            "ExternalId": "2"
+        },
+        {
+            "Description": "Ballot Type 3 Republican By Type",
+            "Id": 66,
+            "ExternalId": "3"
+        },
+        {
+            "Description": "Ballot Type 2 American Independent By Type",
+            "Id": 67,
+            "ExternalId": "2"
+        },
+        {
+            "Description": "Ballot Type 3 American Independent By Type",
+            "Id": 68,
+            "ExternalId": "3"
+        },
+        {
+            "Description": "Ballot Type 2 American Independent NPP By Type",
+            "Id": 69,
+            "ExternalId": "2"
+        },
+        {
+            "Description": "Ballot Type 3 American Independent NPP By Type",
+            "Id": 70,
+            "ExternalId": "3"
+        },
+        {
+            "Description": "Ballot Type 2 Peace and Freedom By Type",
+            "Id": 71,
+            "ExternalId": "2"
+        },
+        {
+            "Description": "Ballot Type 3 Peace and Freedom By Type",
+            "Id": 72,
+            "ExternalId": "3"
+        },
+        {
+            "Description": "Ballot Type 2 Libertarian By Type",
+            "Id": 73,
+            "ExternalId": "2"
+        },
+        {
+            "Description": "Ballot Type 3 Libertarian By Type",
+            "Id": 74,
+            "ExternalId": "3"
+        },
+        {
+            "Description": "Ballot Type 3 Libertarian NPP By Type",
+            "Id": 75,
+            "ExternalId": "3"
+        },
+        {
+            "Description": "Ballot Type 2 Libertarian NPP By Type",
+            "Id": 76,
+            "ExternalId": "2"
+        },
+        {
+            "Description": "Ballot Type 3 Green By Type",
+            "Id": 77,
+            "ExternalId": "3"
+        },
+        {
+            "Description": "Ballot Type 2 Green By Type",
+            "Id": 78,
+            "ExternalId": "2"
+        },
+        {
+            "Description": "Ballot Type 3 Non-Partisan By Type",
+            "Id": 79,
+            "ExternalId": "3"
+        },
+        {
+            "Description": "Ballot Type 2 Non-Partisan By Type",
+            "Id": 80,
+            "ExternalId": "2"
+        },
+        {
+            "Description": "Ballot Type 6 Democratic",
+            "Id": 81,
+            "ExternalId": "6"
+        },
+        {
+            "Description": "Ballot Type 5 Democratic",
+            "Id": 82,
+            "ExternalId": "5"
+        },
+        {
+            "Description": "Ballot Type 5 Democratic NPP",
+            "Id": 83,
+            "ExternalId": "5"
+        },
+        {
+            "Description": "Ballot Type 6 Democratic NPP",
+            "Id": 84,
+            "ExternalId": "6"
+        },
+        {
+            "Description": "Ballot Type 6 Republican",
+            "Id": 85,
+            "ExternalId": "6"
+        },
+        {
+            "Description": "Ballot Type 5 Republican",
+            "Id": 86,
+            "ExternalId": "5"
+        },
+        {
+            "Description": "Ballot Type 5 American Independent",
+            "Id": 87,
+            "ExternalId": "5"
+        },
+        {
+            "Description": "Ballot Type 6 American Independent",
+            "Id": 88,
+            "ExternalId": "6"
+        },
+        {
+            "Description": "Ballot Type 6 American Independent NPP",
+            "Id": 89,
+            "ExternalId": "6"
+        },
+        {
+            "Description": "Ballot Type 5 American Independent NPP",
+            "Id": 90,
+            "ExternalId": "5"
+        },
+        {
+            "Description": "Ballot Type 6 Peace and Freedom",
+            "Id": 91,
+            "ExternalId": "6"
+        },
+        {
+            "Description": "Ballot Type 5 Peace and Freedom",
+            "Id": 92,
+            "ExternalId": "5"
+        },
+        {
+            "Description": "Ballot Type 5 Libertarian",
+            "Id": 93,
+            "ExternalId": "5"
+        },
+        {
+            "Description": "Ballot Type 6 Libertarian",
+            "Id": 94,
+            "ExternalId": "6"
+        },
+        {
+            "Description": "Ballot Type 5 Libertarian NPP",
+            "Id": 95,
+            "ExternalId": "5"
+        },
+        {
+            "Description": "Ballot Type 6 Libertarian NPP",
+            "Id": 96,
+            "ExternalId": "6"
+        },
+        {
+            "Description": "Ballot Type 5 Green",
+            "Id": 97,
+            "ExternalId": "5"
+        },
+        {
+            "Description": "Ballot Type 6 Green",
+            "Id": 98,
+            "ExternalId": "6"
+        },
+        {
+            "Description": "Ballot Type 6 Non-Partisan",
+            "Id": 99,
+            "ExternalId": "6"
+        },
+        {
+            "Description": "Ballot Type 5 Non-Partisan",
+            "Id": 100,
+            "ExternalId": "5"
+        },
+        {
+            "Description": "Ballot Type 6 Democratic By Type",
+            "Id": 101,
+            "ExternalId": "6"
+        },
+        {
+            "Description": "Ballot Type 5 Democratic By Type",
+            "Id": 102,
+            "ExternalId": "5"
+        },
+        {
+            "Description": "Ballot Type 5 Democratic NPP By Type",
+            "Id": 103,
+            "ExternalId": "5"
+        },
+        {
+            "Description": "Ballot Type 6 Democratic NPP By Type",
+            "Id": 104,
+            "ExternalId": "6"
+        },
+        {
+            "Description": "Ballot Type 6 Republican By Type",
+            "Id": 105,
+            "ExternalId": "6"
+        },
+        {
+            "Description": "Ballot Type 5 Republican By Type",
+            "Id": 106,
+            "ExternalId": "5"
+        },
+        {
+            "Description": "Ballot Type 6 American Independent By Type",
+            "Id": 107,
+            "ExternalId": "6"
+        },
+        {
+            "Description": "Ballot Type 5 American Independent By Type",
+            "Id": 108,
+            "ExternalId": "5"
+        },
+        {
+            "Description": "Ballot Type 5 American Independent NPP By Type",
+            "Id": 109,
+            "ExternalId": "5"
+        },
+        {
+            "Description": "Ballot Type 6 American Independent NPP By Type",
+            "Id": 110,
+            "ExternalId": "6"
+        },
+        {
+            "Description": "Ballot Type 5 Peace and Freedom By Type",
+            "Id": 111,
+            "ExternalId": "5"
+        },
+        {
+            "Description": "Ballot Type 6 Peace and Freedom By Type",
+            "Id": 112,
+            "ExternalId": "6"
+        },
+        {
+            "Description": "Ballot Type 6 Libertarian By Type",
+            "Id": 113,
+            "ExternalId": "6"
+        },
+        {
+            "Description": "Ballot Type 5 Libertarian By Type",
+            "Id": 114,
+            "ExternalId": "5"
+        },
+        {
+            "Description": "Ballot Type 5 Libertarian NPP By Type",
+            "Id": 115,
+            "ExternalId": "5"
+        },
+        {
+            "Description": "Ballot Type 6 Libertarian NPP By Type",
+            "Id": 116,
+            "ExternalId": "6"
+        },
+        {
+            "Description": "Ballot Type 5 Green By Type",
+            "Id": 117,
+            "ExternalId": "5"
+        },
+        {
+            "Description": "Ballot Type 6 Green By Type",
+            "Id": 118,
+            "ExternalId": "6"
+        },
+        {
+            "Description": "Ballot Type 6 Non-Partisan By Type",
+            "Id": 119,
+            "ExternalId": "6"
+        },
+        {
+            "Description": "Ballot Type 5 Non-Partisan By Type",
+            "Id": 120,
+            "ExternalId": "5"
+        },
+        {
+            "Description": "Ballot Type 7 Democratic",
+            "Id": 121,
+            "ExternalId": "7"
+        },
+        {
+            "Description": "Ballot Type 7 Democratic NPP",
+            "Id": 122,
+            "ExternalId": "7"
+        },
+        {
+            "Description": "Ballot Type 7 Republican",
+            "Id": 123,
+            "ExternalId": "7"
+        },
+        {
+            "Description": "Ballot Type 7 American Independent",
+            "Id": 124,
+            "ExternalId": "7"
+        },
+        {
+            "Description": "Ballot Type 7 American Independent NPP",
+            "Id": 125,
+            "ExternalId": "7"
+        },
+        {
+            "Description": "Ballot Type 7 Peace and Freedom",
+            "Id": 126,
+            "ExternalId": "7"
+        },
+        {
+            "Description": "Ballot Type 7 Libertarian",
+            "Id": 127,
+            "ExternalId": "7"
+        },
+        {
+            "Description": "Ballot Type 7 Libertarian NPP",
+            "Id": 128,
+            "ExternalId": "7"
+        },
+        {
+            "Description": "Ballot Type 7 Green",
+            "Id": 129,
+            "ExternalId": "7"
+        },
+        {
+            "Description": "Ballot Type 7 Non-Partisan",
+            "Id": 130,
+            "ExternalId": "7"
+        },
+        {
+            "Description": "Ballot Type 7 Democratic By Type",
+            "Id": 131,
+            "ExternalId": "7"
+        },
+        {
+            "Description": "Ballot Type 7 Democratic NPP By Type",
+            "Id": 132,
+            "ExternalId": "7"
+        },
+        {
+            "Description": "Ballot Type 7 Republican By Type",
+            "Id": 133,
+            "ExternalId": "7"
+        },
+        {
+            "Description": "Ballot Type 7 American Independent By Type",
+            "Id": 134,
+            "ExternalId": "7"
+        },
+        {
+            "Description": "Ballot Type 7 American Independent NPP By Type",
+            "Id": 135,
+            "ExternalId": "7"
+        },
+        {
+            "Description": "Ballot Type 7 Peace and Freedom By Type",
+            "Id": 136,
+            "ExternalId": "7"
+        },
+        {
+            "Description": "Ballot Type 7 Libertarian By Type",
+            "Id": 137,
+            "ExternalId": "7"
+        },
+        {
+            "Description": "Ballot Type 7 Libertarian NPP By Type",
+            "Id": 138,
+            "ExternalId": "7"
+        },
+        {
+            "Description": "Ballot Type 7 Green By Type",
+            "Id": 139,
+            "ExternalId": "7"
+        },
+        {
+            "Description": "Ballot Type 7 Non-Partisan By Type",
+            "Id": 140,
+            "ExternalId": "7"
+        },
+        {
+            "Description": "Ballot Type 9 Democratic",
+            "Id": 141,
+            "ExternalId": "9"
+        },
+        {
+            "Description": "Ballot Type 8 Democratic",
+            "Id": 142,
+            "ExternalId": "8"
+        },
+        {
+            "Description": "Ballot Type 8 Democratic NPP",
+            "Id": 143,
+            "ExternalId": "8"
+        },
+        {
+            "Description": "Ballot Type 9 Democratic NPP",
+            "Id": 144,
+            "ExternalId": "9"
+        },
+        {
+            "Description": "Ballot Type 9 Republican",
+            "Id": 145,
+            "ExternalId": "9"
+        },
+        {
+            "Description": "Ballot Type 8 Republican",
+            "Id": 146,
+            "ExternalId": "8"
+        },
+        {
+            "Description": "Ballot Type 8 American Independent",
+            "Id": 147,
+            "ExternalId": "8"
+        },
+        {
+            "Description": "Ballot Type 9 American Independent",
+            "Id": 148,
+            "ExternalId": "9"
+        },
+        {
+            "Description": "Ballot Type 8 American Independent NPP",
+            "Id": 149,
+            "ExternalId": "8"
+        },
+        {
+            "Description": "Ballot Type 9 American Independent NPP",
+            "Id": 150,
+            "ExternalId": "9"
+        },
+        {
+            "Description": "Ballot Type 9 Peace and Freedom",
+            "Id": 151,
+            "ExternalId": "9"
+        },
+        {
+            "Description": "Ballot Type 8 Peace and Freedom",
+            "Id": 152,
+            "ExternalId": "8"
+        },
+        {
+            "Description": "Ballot Type 8 Libertarian",
+            "Id": 153,
+            "ExternalId": "8"
+        },
+        {
+            "Description": "Ballot Type 9 Libertarian",
+            "Id": 154,
+            "ExternalId": "9"
+        },
+        {
+            "Description": "Ballot Type 8 Libertarian NPP",
+            "Id": 155,
+            "ExternalId": "8"
+        },
+        {
+            "Description": "Ballot Type 9 Libertarian NPP",
+            "Id": 156,
+            "ExternalId": "9"
+        },
+        {
+            "Description": "Ballot Type 8 Green",
+            "Id": 157,
+            "ExternalId": "8"
+        },
+        {
+            "Description": "Ballot Type 9 Green",
+            "Id": 158,
+            "ExternalId": "9"
+        },
+        {
+            "Description": "Ballot Type 8 Non-Partisan",
+            "Id": 159,
+            "ExternalId": "8"
+        },
+        {
+            "Description": "Ballot Type 9 Non-Partisan",
+            "Id": 160,
+            "ExternalId": "9"
+        },
+        {
+            "Description": "Ballot Type 8 Democratic By Type",
+            "Id": 161,
+            "ExternalId": "8"
+        },
+        {
+            "Description": "Ballot Type 9 Democratic By Type",
+            "Id": 162,
+            "ExternalId": "9"
+        },
+        {
+            "Description": "Ballot Type 8 Democratic NPP By Type",
+            "Id": 163,
+            "ExternalId": "8"
+        },
+        {
+            "Description": "Ballot Type 9 Democratic NPP By Type",
+            "Id": 164,
+            "ExternalId": "9"
+        },
+        {
+            "Description": "Ballot Type 8 Republican By Type",
+            "Id": 165,
+            "ExternalId": "8"
+        },
+        {
+            "Description": "Ballot Type 9 Republican By Type",
+            "Id": 166,
+            "ExternalId": "9"
+        },
+        {
+            "Description": "Ballot Type 9 American Independent By Type",
+            "Id": 167,
+            "ExternalId": "9"
+        },
+        {
+            "Description": "Ballot Type 8 American Independent By Type",
+            "Id": 168,
+            "ExternalId": "8"
+        },
+        {
+            "Description": "Ballot Type 8 American Independent NPP By Type",
+            "Id": 169,
+            "ExternalId": "8"
+        },
+        {
+            "Description": "Ballot Type 9 American Independent NPP By Type",
+            "Id": 170,
+            "ExternalId": "9"
+        },
+        {
+            "Description": "Ballot Type 8 Peace and Freedom By Type",
+            "Id": 171,
+            "ExternalId": "8"
+        },
+        {
+            "Description": "Ballot Type 9 Peace and Freedom By Type",
+            "Id": 172,
+            "ExternalId": "9"
+        },
+        {
+            "Description": "Ballot Type 8 Libertarian By Type",
+            "Id": 173,
+            "ExternalId": "8"
+        },
+        {
+            "Description": "Ballot Type 9 Libertarian By Type",
+            "Id": 174,
+            "ExternalId": "9"
+        },
+        {
+            "Description": "Ballot Type 8 Libertarian NPP By Type",
+            "Id": 175,
+            "ExternalId": "8"
+        },
+        {
+            "Description": "Ballot Type 9 Libertarian NPP By Type",
+            "Id": 176,
+            "ExternalId": "9"
+        },
+        {
+            "Description": "Ballot Type 8 Green By Type",
+            "Id": 177,
+            "ExternalId": "8"
+        },
+        {
+            "Description": "Ballot Type 9 Green By Type",
+            "Id": 178,
+            "ExternalId": "9"
+        },
+        {
+            "Description": "Ballot Type 9 Non-Partisan By Type",
+            "Id": 179,
+            "ExternalId": "9"
+        },
+        {
+            "Description": "Ballot Type 8 Non-Partisan By Type",
+            "Id": 180,
+            "ExternalId": "8"
+        }
+    ]
+}

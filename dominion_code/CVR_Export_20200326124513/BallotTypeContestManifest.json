@@ -1,0 +1,9405 @@
+{
+    "Version": "5.10.11.24",
+    "List": [
+        {
+            "BallotTypeId": 1,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 1,
+            "ContestId": 22
+        },
+        {
+            "BallotTypeId": 1,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 1,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 1,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 1,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 1,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 1,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 1,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 1,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 1,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 1,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 1,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 1,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 2,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 2,
+            "ContestId": 22
+        },
+        {
+            "BallotTypeId": 2,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 2,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 2,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 2,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 2,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 2,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 2,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 2,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 2,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 2,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 2,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 2,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 3,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 3,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 3,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 3,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 3,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 3,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 3,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 3,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 3,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 3,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 3,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 3,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 3,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 4,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 4,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 4,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 4,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 4,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 4,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 4,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 4,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 4,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 4,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 4,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 4,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 4,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 5,
+            "ContestId": 8
+        },
+        {
+            "BallotTypeId": 5,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 5,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 5,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 5,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 5,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 5,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 5,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 5,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 5,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 5,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 5,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 5,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 6,
+            "ContestId": 8
+        },
+        {
+            "BallotTypeId": 6,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 6,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 6,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 6,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 6,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 6,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 6,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 6,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 6,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 6,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 6,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 6,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 7,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 7,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 7,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 7,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 7,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 7,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 7,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 7,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 7,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 7,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 7,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 7,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 7,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 8,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 8,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 8,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 8,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 8,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 8,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 8,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 8,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 8,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 8,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 8,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 8,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 8,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 9,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 9,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 9,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 9,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 9,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 9,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 9,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 9,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 9,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 9,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 9,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 9,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 9,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 10,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 10,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 10,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 10,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 10,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 10,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 10,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 10,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 10,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 10,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 10,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 10,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 10,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 11,
+            "ContestId": 11
+        },
+        {
+            "BallotTypeId": 11,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 11,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 11,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 11,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 11,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 11,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 11,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 11,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 11,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 11,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 11,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 11,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 12,
+            "ContestId": 11
+        },
+        {
+            "BallotTypeId": 12,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 12,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 12,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 12,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 12,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 12,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 12,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 12,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 12,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 12,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 12,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 12,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 13,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 13,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 13,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 13,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 13,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 13,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 13,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 13,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 13,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 13,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 13,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 13,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 13,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 14,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 14,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 14,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 14,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 14,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 14,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 14,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 14,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 14,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 14,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 14,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 14,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 14,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 15,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 15,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 15,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 15,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 15,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 15,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 15,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 15,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 15,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 15,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 15,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 15,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 15,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 16,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 16,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 16,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 16,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 16,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 16,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 16,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 16,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 16,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 16,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 16,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 16,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 16,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 17,
+            "ContestId": 10
+        },
+        {
+            "BallotTypeId": 17,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 17,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 17,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 17,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 17,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 17,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 17,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 17,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 17,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 17,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 17,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 17,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 18,
+            "ContestId": 10
+        },
+        {
+            "BallotTypeId": 18,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 18,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 18,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 18,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 18,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 18,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 18,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 18,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 18,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 18,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 18,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 18,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 19,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 19,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 19,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 19,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 19,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 19,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 19,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 19,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 19,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 19,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 19,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 19,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 20,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 20,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 20,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 20,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 20,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 20,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 20,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 20,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 20,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 20,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 20,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 20,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 21,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 21,
+            "ContestId": 22
+        },
+        {
+            "BallotTypeId": 21,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 21,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 21,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 21,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 21,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 21,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 21,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 21,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 21,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 21,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 21,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 21,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 22,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 22,
+            "ContestId": 22
+        },
+        {
+            "BallotTypeId": 22,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 22,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 22,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 22,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 22,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 22,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 22,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 22,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 22,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 22,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 22,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 22,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 23,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 23,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 23,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 23,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 23,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 23,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 23,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 23,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 23,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 23,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 23,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 23,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 23,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 24,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 24,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 24,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 24,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 24,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 24,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 24,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 24,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 24,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 24,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 24,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 24,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 24,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 25,
+            "ContestId": 8
+        },
+        {
+            "BallotTypeId": 25,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 25,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 25,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 25,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 25,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 25,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 25,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 25,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 25,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 25,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 25,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 25,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 26,
+            "ContestId": 8
+        },
+        {
+            "BallotTypeId": 26,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 26,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 26,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 26,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 26,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 26,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 26,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 26,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 26,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 26,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 26,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 26,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 27,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 27,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 27,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 27,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 27,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 27,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 27,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 27,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 27,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 27,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 27,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 27,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 27,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 28,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 28,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 28,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 28,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 28,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 28,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 28,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 28,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 28,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 28,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 28,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 28,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 28,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 29,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 29,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 29,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 29,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 29,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 29,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 29,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 29,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 29,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 29,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 29,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 29,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 29,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 30,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 30,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 30,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 30,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 30,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 30,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 30,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 30,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 30,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 30,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 30,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 30,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 30,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 31,
+            "ContestId": 11
+        },
+        {
+            "BallotTypeId": 31,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 31,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 31,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 31,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 31,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 31,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 31,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 31,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 31,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 31,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 31,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 31,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 32,
+            "ContestId": 11
+        },
+        {
+            "BallotTypeId": 32,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 32,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 32,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 32,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 32,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 32,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 32,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 32,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 32,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 32,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 32,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 32,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 33,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 33,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 33,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 33,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 33,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 33,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 33,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 33,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 33,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 33,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 33,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 33,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 33,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 34,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 34,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 34,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 34,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 34,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 34,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 34,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 34,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 34,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 34,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 34,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 34,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 34,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 35,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 35,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 35,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 35,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 35,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 35,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 35,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 35,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 35,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 35,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 35,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 35,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 35,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 36,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 36,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 36,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 36,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 36,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 36,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 36,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 36,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 36,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 36,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 36,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 36,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 36,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 37,
+            "ContestId": 10
+        },
+        {
+            "BallotTypeId": 37,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 37,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 37,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 37,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 37,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 37,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 37,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 37,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 37,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 37,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 37,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 37,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 38,
+            "ContestId": 10
+        },
+        {
+            "BallotTypeId": 38,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 38,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 38,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 38,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 38,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 38,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 38,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 38,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 38,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 38,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 38,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 38,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 39,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 39,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 39,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 39,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 39,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 39,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 39,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 39,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 39,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 39,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 39,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 39,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 40,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 40,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 40,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 40,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 40,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 40,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 40,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 40,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 40,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 40,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 40,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 40,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 41,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 41,
+            "ContestId": 23
+        },
+        {
+            "BallotTypeId": 41,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 41,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 41,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 41,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 41,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 41,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 41,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 41,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 41,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 41,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 41,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 41,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 42,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 42,
+            "ContestId": 23
+        },
+        {
+            "BallotTypeId": 42,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 42,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 42,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 42,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 42,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 42,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 42,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 42,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 42,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 42,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 42,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 42,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 43,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 43,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 43,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 43,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 43,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 43,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 43,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 43,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 43,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 43,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 43,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 43,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 43,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 44,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 44,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 44,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 44,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 44,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 44,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 44,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 44,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 44,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 44,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 44,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 44,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 44,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 45,
+            "ContestId": 8
+        },
+        {
+            "BallotTypeId": 45,
+            "ContestId": 24
+        },
+        {
+            "BallotTypeId": 45,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 45,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 45,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 45,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 45,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 45,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 45,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 45,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 45,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 45,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 45,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 45,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 46,
+            "ContestId": 8
+        },
+        {
+            "BallotTypeId": 46,
+            "ContestId": 24
+        },
+        {
+            "BallotTypeId": 46,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 46,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 46,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 46,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 46,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 46,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 46,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 46,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 46,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 46,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 46,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 46,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 47,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 47,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 47,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 47,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 47,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 47,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 47,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 47,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 47,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 47,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 47,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 47,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 47,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 48,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 48,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 48,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 48,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 48,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 48,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 48,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 48,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 48,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 48,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 48,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 48,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 48,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 49,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 49,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 49,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 49,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 49,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 49,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 49,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 49,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 49,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 49,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 49,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 49,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 49,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 50,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 50,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 50,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 50,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 50,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 50,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 50,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 50,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 50,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 50,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 50,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 50,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 50,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 51,
+            "ContestId": 11
+        },
+        {
+            "BallotTypeId": 51,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 51,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 51,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 51,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 51,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 51,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 51,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 51,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 51,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 51,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 51,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 51,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 52,
+            "ContestId": 11
+        },
+        {
+            "BallotTypeId": 52,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 52,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 52,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 52,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 52,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 52,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 52,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 52,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 52,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 52,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 52,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 52,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 53,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 53,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 53,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 53,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 53,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 53,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 53,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 53,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 53,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 53,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 53,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 53,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 53,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 54,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 54,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 54,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 54,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 54,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 54,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 54,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 54,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 54,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 54,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 54,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 54,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 54,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 55,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 55,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 55,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 55,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 55,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 55,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 55,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 55,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 55,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 55,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 55,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 55,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 55,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 56,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 56,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 56,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 56,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 56,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 56,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 56,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 56,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 56,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 56,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 56,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 56,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 56,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 57,
+            "ContestId": 10
+        },
+        {
+            "BallotTypeId": 57,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 57,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 57,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 57,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 57,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 57,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 57,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 57,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 57,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 57,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 57,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 57,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 58,
+            "ContestId": 10
+        },
+        {
+            "BallotTypeId": 58,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 58,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 58,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 58,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 58,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 58,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 58,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 58,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 58,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 58,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 58,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 58,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 59,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 59,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 59,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 59,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 59,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 59,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 59,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 59,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 59,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 59,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 59,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 59,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 60,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 60,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 60,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 60,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 60,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 60,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 60,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 60,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 60,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 60,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 60,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 60,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 61,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 61,
+            "ContestId": 23
+        },
+        {
+            "BallotTypeId": 61,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 61,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 61,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 61,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 61,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 61,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 61,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 61,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 61,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 61,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 61,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 61,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 62,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 62,
+            "ContestId": 23
+        },
+        {
+            "BallotTypeId": 62,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 62,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 62,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 62,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 62,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 62,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 62,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 62,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 62,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 62,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 62,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 62,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 63,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 63,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 63,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 63,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 63,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 63,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 63,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 63,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 63,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 63,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 63,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 63,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 63,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 64,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 64,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 64,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 64,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 64,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 64,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 64,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 64,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 64,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 64,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 64,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 64,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 64,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 65,
+            "ContestId": 8
+        },
+        {
+            "BallotTypeId": 65,
+            "ContestId": 24
+        },
+        {
+            "BallotTypeId": 65,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 65,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 65,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 65,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 65,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 65,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 65,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 65,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 65,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 65,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 65,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 65,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 66,
+            "ContestId": 8
+        },
+        {
+            "BallotTypeId": 66,
+            "ContestId": 24
+        },
+        {
+            "BallotTypeId": 66,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 66,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 66,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 66,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 66,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 66,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 66,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 66,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 66,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 66,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 66,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 66,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 67,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 67,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 67,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 67,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 67,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 67,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 67,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 67,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 67,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 67,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 67,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 67,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 67,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 68,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 68,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 68,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 68,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 68,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 68,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 68,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 68,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 68,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 68,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 68,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 68,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 68,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 69,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 69,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 69,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 69,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 69,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 69,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 69,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 69,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 69,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 69,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 69,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 69,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 69,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 70,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 70,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 70,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 70,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 70,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 70,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 70,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 70,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 70,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 70,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 70,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 70,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 70,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 71,
+            "ContestId": 11
+        },
+        {
+            "BallotTypeId": 71,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 71,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 71,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 71,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 71,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 71,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 71,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 71,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 71,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 71,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 71,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 71,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 72,
+            "ContestId": 11
+        },
+        {
+            "BallotTypeId": 72,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 72,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 72,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 72,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 72,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 72,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 72,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 72,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 72,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 72,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 72,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 72,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 73,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 73,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 73,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 73,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 73,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 73,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 73,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 73,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 73,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 73,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 73,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 73,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 73,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 74,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 74,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 74,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 74,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 74,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 74,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 74,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 74,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 74,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 74,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 74,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 74,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 74,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 75,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 75,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 75,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 75,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 75,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 75,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 75,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 75,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 75,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 75,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 75,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 75,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 75,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 76,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 76,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 76,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 76,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 76,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 76,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 76,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 76,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 76,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 76,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 76,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 76,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 76,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 77,
+            "ContestId": 10
+        },
+        {
+            "BallotTypeId": 77,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 77,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 77,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 77,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 77,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 77,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 77,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 77,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 77,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 77,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 77,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 77,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 78,
+            "ContestId": 10
+        },
+        {
+            "BallotTypeId": 78,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 78,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 78,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 78,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 78,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 78,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 78,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 78,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 78,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 78,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 78,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 78,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 79,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 79,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 79,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 79,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 79,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 79,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 79,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 79,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 79,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 79,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 79,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 79,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 80,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 80,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 80,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 80,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 80,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 80,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 80,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 80,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 80,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 80,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 80,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 80,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 81,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 81,
+            "ContestId": 22
+        },
+        {
+            "BallotTypeId": 81,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 81,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 81,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 81,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 81,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 81,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 81,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 81,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 81,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 81,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 81,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 81,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 82,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 82,
+            "ContestId": 22
+        },
+        {
+            "BallotTypeId": 82,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 82,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 82,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 82,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 82,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 82,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 82,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 82,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 82,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 82,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 82,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 82,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 83,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 83,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 83,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 83,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 83,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 83,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 83,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 83,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 83,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 83,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 83,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 83,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 83,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 84,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 84,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 84,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 84,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 84,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 84,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 84,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 84,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 84,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 84,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 84,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 84,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 84,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 85,
+            "ContestId": 8
+        },
+        {
+            "BallotTypeId": 85,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 85,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 85,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 85,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 85,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 85,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 85,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 85,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 85,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 85,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 85,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 85,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 86,
+            "ContestId": 8
+        },
+        {
+            "BallotTypeId": 86,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 86,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 86,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 86,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 86,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 86,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 86,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 86,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 86,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 86,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 86,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 86,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 87,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 87,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 87,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 87,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 87,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 87,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 87,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 87,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 87,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 87,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 87,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 87,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 87,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 88,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 88,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 88,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 88,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 88,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 88,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 88,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 88,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 88,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 88,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 88,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 88,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 88,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 89,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 89,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 89,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 89,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 89,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 89,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 89,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 89,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 89,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 89,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 89,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 89,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 89,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 90,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 90,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 90,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 90,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 90,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 90,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 90,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 90,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 90,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 90,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 90,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 90,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 90,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 91,
+            "ContestId": 11
+        },
+        {
+            "BallotTypeId": 91,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 91,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 91,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 91,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 91,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 91,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 91,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 91,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 91,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 91,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 91,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 91,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 92,
+            "ContestId": 11
+        },
+        {
+            "BallotTypeId": 92,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 92,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 92,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 92,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 92,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 92,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 92,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 92,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 92,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 92,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 92,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 92,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 93,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 93,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 93,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 93,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 93,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 93,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 93,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 93,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 93,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 93,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 93,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 93,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 93,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 94,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 94,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 94,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 94,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 94,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 94,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 94,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 94,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 94,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 94,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 94,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 94,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 94,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 95,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 95,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 95,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 95,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 95,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 95,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 95,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 95,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 95,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 95,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 95,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 95,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 95,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 96,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 96,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 96,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 96,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 96,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 96,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 96,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 96,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 96,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 96,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 96,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 96,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 96,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 97,
+            "ContestId": 10
+        },
+        {
+            "BallotTypeId": 97,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 97,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 97,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 97,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 97,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 97,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 97,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 97,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 97,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 97,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 97,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 97,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 98,
+            "ContestId": 10
+        },
+        {
+            "BallotTypeId": 98,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 98,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 98,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 98,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 98,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 98,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 98,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 98,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 98,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 98,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 98,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 98,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 99,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 99,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 99,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 99,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 99,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 99,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 99,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 99,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 99,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 99,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 99,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 99,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 100,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 100,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 100,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 100,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 100,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 100,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 100,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 100,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 100,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 100,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 100,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 100,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 101,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 101,
+            "ContestId": 22
+        },
+        {
+            "BallotTypeId": 101,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 101,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 101,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 101,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 101,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 101,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 101,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 101,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 101,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 101,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 101,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 101,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 102,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 102,
+            "ContestId": 22
+        },
+        {
+            "BallotTypeId": 102,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 102,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 102,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 102,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 102,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 102,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 102,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 102,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 102,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 102,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 102,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 102,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 103,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 103,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 103,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 103,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 103,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 103,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 103,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 103,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 103,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 103,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 103,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 103,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 103,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 104,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 104,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 104,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 104,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 104,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 104,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 104,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 104,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 104,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 104,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 104,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 104,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 104,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 105,
+            "ContestId": 8
+        },
+        {
+            "BallotTypeId": 105,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 105,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 105,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 105,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 105,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 105,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 105,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 105,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 105,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 105,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 105,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 105,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 106,
+            "ContestId": 8
+        },
+        {
+            "BallotTypeId": 106,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 106,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 106,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 106,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 106,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 106,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 106,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 106,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 106,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 106,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 106,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 106,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 107,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 107,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 107,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 107,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 107,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 107,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 107,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 107,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 107,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 107,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 107,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 107,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 107,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 108,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 108,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 108,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 108,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 108,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 108,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 108,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 108,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 108,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 108,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 108,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 108,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 108,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 109,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 109,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 109,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 109,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 109,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 109,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 109,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 109,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 109,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 109,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 109,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 109,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 109,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 110,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 110,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 110,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 110,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 110,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 110,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 110,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 110,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 110,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 110,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 110,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 110,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 110,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 111,
+            "ContestId": 11
+        },
+        {
+            "BallotTypeId": 111,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 111,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 111,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 111,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 111,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 111,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 111,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 111,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 111,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 111,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 111,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 111,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 112,
+            "ContestId": 11
+        },
+        {
+            "BallotTypeId": 112,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 112,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 112,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 112,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 112,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 112,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 112,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 112,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 112,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 112,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 112,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 112,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 113,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 113,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 113,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 113,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 113,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 113,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 113,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 113,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 113,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 113,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 113,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 113,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 113,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 114,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 114,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 114,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 114,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 114,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 114,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 114,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 114,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 114,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 114,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 114,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 114,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 114,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 115,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 115,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 115,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 115,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 115,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 115,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 115,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 115,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 115,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 115,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 115,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 115,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 115,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 116,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 116,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 116,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 116,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 116,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 116,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 116,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 116,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 116,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 116,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 116,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 116,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 116,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 117,
+            "ContestId": 10
+        },
+        {
+            "BallotTypeId": 117,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 117,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 117,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 117,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 117,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 117,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 117,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 117,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 117,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 117,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 117,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 117,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 118,
+            "ContestId": 10
+        },
+        {
+            "BallotTypeId": 118,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 118,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 118,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 118,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 118,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 118,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 118,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 118,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 118,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 118,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 118,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 118,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 119,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 119,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 119,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 119,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 119,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 119,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 119,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 119,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 119,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 119,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 119,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 119,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 120,
+            "ContestId": 13
+        },
+        {
+            "BallotTypeId": 120,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 120,
+            "ContestId": 17
+        },
+        {
+            "BallotTypeId": 120,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 120,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 120,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 120,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 120,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 120,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 120,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 120,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 120,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 121,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 121,
+            "ContestId": 23
+        },
+        {
+            "BallotTypeId": 121,
+            "ContestId": 14
+        },
+        {
+            "BallotTypeId": 121,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 121,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 121,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 121,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 121,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 121,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 121,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 121,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 121,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 121,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 121,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 122,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 122,
+            "ContestId": 14
+        },
+        {
+            "BallotTypeId": 122,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 122,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 122,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 122,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 122,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 122,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 122,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 122,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 122,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 122,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 122,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 123,
+            "ContestId": 8
+        },
+        {
+            "BallotTypeId": 123,
+            "ContestId": 24
+        },
+        {
+            "BallotTypeId": 123,
+            "ContestId": 14
+        },
+        {
+            "BallotTypeId": 123,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 123,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 123,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 123,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 123,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 123,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 123,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 123,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 123,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 123,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 123,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 124,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 124,
+            "ContestId": 14
+        },
+        {
+            "BallotTypeId": 124,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 124,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 124,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 124,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 124,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 124,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 124,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 124,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 124,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 124,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 124,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 125,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 125,
+            "ContestId": 14
+        },
+        {
+            "BallotTypeId": 125,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 125,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 125,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 125,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 125,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 125,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 125,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 125,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 125,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 125,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 125,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 126,
+            "ContestId": 11
+        },
+        {
+            "BallotTypeId": 126,
+            "ContestId": 14
+        },
+        {
+            "BallotTypeId": 126,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 126,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 126,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 126,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 126,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 126,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 126,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 126,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 126,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 126,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 126,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 127,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 127,
+            "ContestId": 14
+        },
+        {
+            "BallotTypeId": 127,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 127,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 127,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 127,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 127,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 127,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 127,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 127,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 127,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 127,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 127,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 128,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 128,
+            "ContestId": 14
+        },
+        {
+            "BallotTypeId": 128,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 128,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 128,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 128,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 128,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 128,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 128,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 128,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 128,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 128,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 128,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 129,
+            "ContestId": 10
+        },
+        {
+            "BallotTypeId": 129,
+            "ContestId": 14
+        },
+        {
+            "BallotTypeId": 129,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 129,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 129,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 129,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 129,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 129,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 129,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 129,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 129,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 129,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 129,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 130,
+            "ContestId": 14
+        },
+        {
+            "BallotTypeId": 130,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 130,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 130,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 130,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 130,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 130,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 130,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 130,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 130,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 130,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 130,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 131,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 131,
+            "ContestId": 23
+        },
+        {
+            "BallotTypeId": 131,
+            "ContestId": 14
+        },
+        {
+            "BallotTypeId": 131,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 131,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 131,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 131,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 131,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 131,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 131,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 131,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 131,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 131,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 131,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 132,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 132,
+            "ContestId": 14
+        },
+        {
+            "BallotTypeId": 132,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 132,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 132,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 132,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 132,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 132,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 132,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 132,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 132,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 132,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 132,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 133,
+            "ContestId": 8
+        },
+        {
+            "BallotTypeId": 133,
+            "ContestId": 24
+        },
+        {
+            "BallotTypeId": 133,
+            "ContestId": 14
+        },
+        {
+            "BallotTypeId": 133,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 133,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 133,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 133,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 133,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 133,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 133,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 133,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 133,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 133,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 133,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 134,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 134,
+            "ContestId": 14
+        },
+        {
+            "BallotTypeId": 134,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 134,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 134,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 134,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 134,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 134,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 134,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 134,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 134,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 134,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 134,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 135,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 135,
+            "ContestId": 14
+        },
+        {
+            "BallotTypeId": 135,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 135,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 135,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 135,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 135,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 135,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 135,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 135,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 135,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 135,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 135,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 136,
+            "ContestId": 11
+        },
+        {
+            "BallotTypeId": 136,
+            "ContestId": 14
+        },
+        {
+            "BallotTypeId": 136,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 136,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 136,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 136,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 136,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 136,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 136,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 136,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 136,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 136,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 136,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 137,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 137,
+            "ContestId": 14
+        },
+        {
+            "BallotTypeId": 137,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 137,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 137,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 137,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 137,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 137,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 137,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 137,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 137,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 137,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 137,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 138,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 138,
+            "ContestId": 14
+        },
+        {
+            "BallotTypeId": 138,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 138,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 138,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 138,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 138,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 138,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 138,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 138,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 138,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 138,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 138,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 139,
+            "ContestId": 10
+        },
+        {
+            "BallotTypeId": 139,
+            "ContestId": 14
+        },
+        {
+            "BallotTypeId": 139,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 139,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 139,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 139,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 139,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 139,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 139,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 139,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 139,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 139,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 139,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 140,
+            "ContestId": 14
+        },
+        {
+            "BallotTypeId": 140,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 140,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 140,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 140,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 140,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 140,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 140,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 140,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 140,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 140,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 140,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 141,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 141,
+            "ContestId": 23
+        },
+        {
+            "BallotTypeId": 141,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 141,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 141,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 141,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 141,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 141,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 141,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 141,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 141,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 141,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 141,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 141,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 142,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 142,
+            "ContestId": 23
+        },
+        {
+            "BallotTypeId": 142,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 142,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 142,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 142,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 142,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 142,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 142,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 142,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 142,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 142,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 142,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 142,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 143,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 143,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 143,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 143,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 143,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 143,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 143,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 143,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 143,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 143,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 143,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 143,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 143,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 144,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 144,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 144,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 144,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 144,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 144,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 144,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 144,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 144,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 144,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 144,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 144,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 144,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 145,
+            "ContestId": 8
+        },
+        {
+            "BallotTypeId": 145,
+            "ContestId": 24
+        },
+        {
+            "BallotTypeId": 145,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 145,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 145,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 145,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 145,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 145,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 145,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 145,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 145,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 145,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 145,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 145,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 146,
+            "ContestId": 8
+        },
+        {
+            "BallotTypeId": 146,
+            "ContestId": 24
+        },
+        {
+            "BallotTypeId": 146,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 146,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 146,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 146,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 146,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 146,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 146,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 146,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 146,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 146,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 146,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 146,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 147,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 147,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 147,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 147,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 147,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 147,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 147,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 147,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 147,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 147,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 147,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 147,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 147,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 148,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 148,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 148,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 148,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 148,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 148,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 148,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 148,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 148,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 148,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 148,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 148,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 148,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 149,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 149,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 149,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 149,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 149,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 149,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 149,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 149,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 149,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 149,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 149,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 149,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 149,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 150,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 150,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 150,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 150,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 150,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 150,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 150,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 150,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 150,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 150,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 150,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 150,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 150,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 151,
+            "ContestId": 11
+        },
+        {
+            "BallotTypeId": 151,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 151,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 151,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 151,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 151,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 151,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 151,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 151,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 151,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 151,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 151,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 151,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 152,
+            "ContestId": 11
+        },
+        {
+            "BallotTypeId": 152,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 152,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 152,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 152,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 152,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 152,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 152,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 152,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 152,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 152,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 152,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 152,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 153,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 153,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 153,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 153,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 153,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 153,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 153,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 153,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 153,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 153,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 153,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 153,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 153,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 154,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 154,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 154,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 154,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 154,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 154,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 154,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 154,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 154,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 154,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 154,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 154,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 154,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 155,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 155,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 155,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 155,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 155,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 155,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 155,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 155,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 155,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 155,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 155,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 155,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 155,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 156,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 156,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 156,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 156,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 156,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 156,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 156,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 156,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 156,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 156,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 156,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 156,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 156,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 157,
+            "ContestId": 10
+        },
+        {
+            "BallotTypeId": 157,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 157,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 157,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 157,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 157,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 157,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 157,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 157,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 157,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 157,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 157,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 157,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 158,
+            "ContestId": 10
+        },
+        {
+            "BallotTypeId": 158,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 158,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 158,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 158,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 158,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 158,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 158,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 158,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 158,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 158,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 158,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 158,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 159,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 159,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 159,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 159,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 159,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 159,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 159,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 159,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 159,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 159,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 159,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 159,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 160,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 160,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 160,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 160,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 160,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 160,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 160,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 160,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 160,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 160,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 160,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 160,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 161,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 161,
+            "ContestId": 23
+        },
+        {
+            "BallotTypeId": 161,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 161,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 161,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 161,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 161,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 161,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 161,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 161,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 161,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 161,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 161,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 161,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 162,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 162,
+            "ContestId": 23
+        },
+        {
+            "BallotTypeId": 162,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 162,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 162,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 162,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 162,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 162,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 162,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 162,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 162,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 162,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 162,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 162,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 163,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 163,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 163,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 163,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 163,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 163,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 163,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 163,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 163,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 163,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 163,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 163,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 163,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 164,
+            "ContestId": 7
+        },
+        {
+            "BallotTypeId": 164,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 164,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 164,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 164,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 164,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 164,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 164,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 164,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 164,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 164,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 164,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 164,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 165,
+            "ContestId": 8
+        },
+        {
+            "BallotTypeId": 165,
+            "ContestId": 24
+        },
+        {
+            "BallotTypeId": 165,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 165,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 165,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 165,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 165,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 165,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 165,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 165,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 165,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 165,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 165,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 165,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 166,
+            "ContestId": 8
+        },
+        {
+            "BallotTypeId": 166,
+            "ContestId": 24
+        },
+        {
+            "BallotTypeId": 166,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 166,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 166,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 166,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 166,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 166,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 166,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 166,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 166,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 166,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 166,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 166,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 167,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 167,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 167,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 167,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 167,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 167,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 167,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 167,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 167,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 167,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 167,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 167,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 167,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 168,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 168,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 168,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 168,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 168,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 168,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 168,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 168,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 168,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 168,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 168,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 168,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 168,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 169,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 169,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 169,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 169,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 169,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 169,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 169,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 169,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 169,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 169,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 169,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 169,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 169,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 170,
+            "ContestId": 9
+        },
+        {
+            "BallotTypeId": 170,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 170,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 170,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 170,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 170,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 170,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 170,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 170,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 170,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 170,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 170,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 170,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 171,
+            "ContestId": 11
+        },
+        {
+            "BallotTypeId": 171,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 171,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 171,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 171,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 171,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 171,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 171,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 171,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 171,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 171,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 171,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 171,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 172,
+            "ContestId": 11
+        },
+        {
+            "BallotTypeId": 172,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 172,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 172,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 172,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 172,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 172,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 172,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 172,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 172,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 172,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 172,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 172,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 173,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 173,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 173,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 173,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 173,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 173,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 173,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 173,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 173,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 173,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 173,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 173,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 173,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 174,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 174,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 174,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 174,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 174,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 174,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 174,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 174,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 174,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 174,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 174,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 174,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 174,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 175,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 175,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 175,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 175,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 175,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 175,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 175,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 175,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 175,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 175,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 175,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 175,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 175,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 176,
+            "ContestId": 12
+        },
+        {
+            "BallotTypeId": 176,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 176,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 176,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 176,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 176,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 176,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 176,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 176,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 176,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 176,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 176,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 176,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 177,
+            "ContestId": 10
+        },
+        {
+            "BallotTypeId": 177,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 177,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 177,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 177,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 177,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 177,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 177,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 177,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 177,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 177,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 177,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 177,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 178,
+            "ContestId": 10
+        },
+        {
+            "BallotTypeId": 178,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 178,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 178,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 178,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 178,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 178,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 178,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 178,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 178,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 178,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 178,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 178,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 179,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 179,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 179,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 179,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 179,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 179,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 179,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 179,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 179,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 179,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 179,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 179,
+            "ContestId": 6
+        },
+        {
+            "BallotTypeId": 180,
+            "ContestId": 15
+        },
+        {
+            "BallotTypeId": 180,
+            "ContestId": 16
+        },
+        {
+            "BallotTypeId": 180,
+            "ContestId": 18
+        },
+        {
+            "BallotTypeId": 180,
+            "ContestId": 19
+        },
+        {
+            "BallotTypeId": 180,
+            "ContestId": 20
+        },
+        {
+            "BallotTypeId": 180,
+            "ContestId": 21
+        },
+        {
+            "BallotTypeId": 180,
+            "ContestId": 1
+        },
+        {
+            "BallotTypeId": 180,
+            "ContestId": 2
+        },
+        {
+            "BallotTypeId": 180,
+            "ContestId": 3
+        },
+        {
+            "BallotTypeId": 180,
+            "ContestId": 4
+        },
+        {
+            "BallotTypeId": 180,
+            "ContestId": 5
+        },
+        {
+            "BallotTypeId": 180,
+            "ContestId": 6
+        }
+    ]
+}

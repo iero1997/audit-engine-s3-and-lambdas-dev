@@ -1,0 +1,181 @@
+argument,value,comment,
+source,R:\BallotImageArchive\WI_Dane_2019_Spring\2019_Spring_Election_Ballot_Images1.zip,,
+source,R:\BallotImageArchive\WI_Dane_2019_Spring\2019_Spring_Election_Ballot_Images2.zip,,
+source,R:\BallotImageArchive\WI_Dane_2019_Spring\2019_Spring_Election_Ballot_Images3.zip,,
+source,R:\BallotImageArchive\WI_Dane_2019_Spring\2019_Spring_Election_Ballot_Images4.zip,,
+source,R:\BallotImageArchive\WI_Dane_2019_Spring\2019_Spring_Election_Ballot_Images5.zip,,
+job,resources/Dane2019-38,,
+job_name,Dane2019-38,,
+cvr,R:\BallotImageArchive\WI_Dane_2019_Spring\2019 Spring Election Cast Vote RecordsA.xlsx,,
+cvr,R:\BallotImageArchive\WI_Dane_2019_Spring\2019 Spring Election Cast Vote RecordsA-1.xlsx,,
+eif,EIFs/EIF_Dane_2019_Spring_Election.xlsx,,
+#threshold,200,,
+check_ballots,No,,
+allow_style_from_cvr,Yes,,
+initial_cvr_cols,Cast Vote Record,,
+initial_cvr_cols,Precinct,,
+initial_cvr_cols,Ballot Style,,
+question_contests_have_no_contest_name,Yes,,
+include_bmd_ballot_type,Yes,,
+include_nonbmd_ballot_type,Yes,,
+save_mark_images,No,,
+incremental_gentemplate,Yes,,
+maprois_max_slip_os,10,,
+save_checkpoint_images,Yes,,
+incremental_extraction,Yes,,
+use_lambdas,No,,
+ballot_style_override,"""144104"",""191""",reads the barcode as 251 instead of 191,
+style_map_override,"53,""Montrose Town Clerk"",20",,
+style_map_override,"87,""Vienna Town Board Chairperson"",11",,
+expressvote_header,"DANE COUNTY/WISCONSIN,2019 SPRING ELECTION,04/02/2019",,
+reviewed,"139532,""Sun Prairie Alderperson District 2"",undervote",Audit Incorrect,"writein ""anyone but conners"" interpreted as conners"
+reviewed,"139687,""Sun Prairie Schl. Dist. Ref Q2 re: exceed revenue limit"",Yes",Audit Correct,
+reviewed,"132288,all contests",Audit Incorrect,Mystery
+reviewed,"143137,all contests",Audit Incorrect,Mystery
+reviewed,"151913,""Fitchburg Alderperson District 2 Seat 3"",Patrick C. Stern",Audit Incorrect,crease causes overvote
+reviewed,"152827,""Madison Metropolitan Board Member Seat 3"",Kaleem Caire",Audit Incorrect,stretched ballot
+reviewed,"154116,""Windsor Village President"",Robert E. Wipperfurth",Audit Correct,
+reviewed,"154237,""DeForest School Board Member Village of Windsor (2)"",(Steve Tenpas,Keri Brunelle)",Audit Correct,
+reviewed,"155250,all contests",Audit Incorrect,bottom line?
+reviewed,"155853,""Circuit Court Judge Branch 16"",Rhonda L. Lanford",Audit Correct,
+reviewed,"156549,""Waunakee School Board Member Village of Waunakee (2)"",(David Boetcher,Jack A. Heinemann)",Audit Correct,
+reviewed,"159265,""Circuit Court Judge Branch 16"",Rhonda L. Lanford",Audit Correct,very light voter
+reviewed,"160410,all contests should be blank",Audit Incorrect,blank ballot misleads adaptive algorithm
+reviewed,"162365,Mount Horeb Village Trustee (3),(Brent D. Yauchler,Thomas C. Orshall,Jason R. Fendrick)",Audit Correct,
+reviewed,"163194,""Court of Appeals Judge District IV"",Jennifer Nashold",Audit Correct,
+reviewed,"163489,""Justice of the Supreme Court"",Lisa Neubauer",Audit Correct,hesitation mark
+reviewed,"164684,""McFarland School Board Member (2)"",Christine M. Pribbenow",Audit Incorrect,crease
+reviewed,"165697,""Justice of the Supreme Court"",Brian Hagedorn",Audit Correct,
+reviewed,"166212,""Mazomanie Village Trustee (3)"",(Scott Mickelson,Jeff Dyreson)",Audit Correct,
+reviewed,"168340,""Justice of the Supreme Court"",Brian Hagedorn",Audit Correct,
+reviewed,"168452,""DeForest School Dist. Ref Q2 re: exceed revenue limit"",No",Audit Correct,
+reviewed,"168587,""DeForest Village President"",undervote",Audit Correct,
+reviewed,"168945,""DeForest Village President"",undervote",Audit Incorrect,crease
+reviewed,"170708,""DeForest Village President"", Judd Blau",Audit Incorrect,crease
+reviewed,"170813,""DeForest Village Trustee (3)"",undervote",Audit Incorrect,crease
+reviewed,"171606,""Circuit Court Judge Branch 16"",Rhonda L. Lanford",Audit Correct,
+reviewed,"172289,""Middleton Cross Plains School Board Member Area III"",Minza Karim",Audit Correct,
+reviewed,"172967,""Cambridge Village President"",undervote",Audit Incorrect,crease on blank ballot
+reviewed,"174343,""Circuit Court Judge Branch 16"",Rhonda L. Lanford",Audit Correct,
+reviewed,"177674,""Springfield Town Board Chairperson"",undervote",Audit Incorrect,Hesitation mark too light and different from others for Jim Pulvermacher
+reviewed,"177982,""Court of Appeals Judge District IV"",Jennifer Nashold",Audit Correct,
+reviewed,"179201,""Pleasant Springs Town Board Supervisor 1"",Douglas Larsson",Audit Correct,voter has hard time making marks
+reviewed,"179430,two contests",Audit Incorrect,stretched ballot at the bottom compensation causes all marks to get off.
+reviewed,"180274,""Justice of the Supreme Court"",Lisa Neubauer",Audit Correct,hesitation mark unlike all other marks
+reviewed,"180477,""Montrose Town Board Supervisor 1"",Randle Francois",Audit Correct,
+reviewed,"181008,all contests",Audit Incorrect,stretched ballot at the bottom compensation causes all marks to get off.
+reviewed,"181578,""Justice of the Supreme Court"",Lisa Neubauer",Audit Correct,
+reviewed,"183133,""Wisconsin Heights School Board Member (2)"",(Mike Wagner,Barb Statz)",Audit Correct,
+reviewed,"186998,""Cottage Grove Municipal Judge"",Overvote","Difficult, darker bubble could be strike out.",
+reviewed,"187523,""Cottage Grove Municipal Judge"",Sheryl K. Albers-Anders",Audit Correct,
+reviewed,"187559,""Deerfield School Board Member (2)"",(Tom Bush,Lisa Sigurslid)",Audit Correct,
+reviewed,"189675,""Justice of the Supreme Court"",Lisa Neubauer",Audit Correct,
+reviewed,"194152,""Monona Alderperson (3)"",(Kathy Thomas,Nancy Moore,Doug Wood)",Audit Correct,
+reviewed,"194800,""Monona Alderperson (3)"",(Kathy Thomas,Nancy Moore,Doug Wood)",Audit Correct,
+reviewed,"195596,""Sun Prairie School Board Member (3)"",(David Hoekstra,Caren Diedrich)",Audit Incorrect,crease
+reviewed,"196634,""Fitchburg Alderperson District 3 Seat 5"",Sarah Schroeder",Audit Correct,
+reviewed,"197845,""Fitchburg Alderperson District 1 Seat 2 (1-year term)"",Anne Scott",Audit Incorrect,No explanation!
+reviewed,"201917,""Oregon Town Board Chairperson"",undervote",Audit Correct,hesitation mark unlike all other marks
+reviewed,"202609,""Stoughton School Board Member (3)"",(Joe Freye,Shawn Rundblade,Shawn Rundblade)",Audit Correct,Very small mark in writein bubble
+reviewed,"207458,""Stoughton School Board Member (3)"",(Yolibeth Rangel-FitzGibbon,Jill Patterson)",Audit Incorrect,crease
+reviewed,"207586,""Stoughton School Board Member (3)"",(Yolibeth Rangel-FitzGibbon,Jill Patterson)",Audit Incorrect,crease
+reviewed,"208237,""Circuit Court Judge Branch 16"",Rhonda L. Lanford",Audit Correct,
+reviewed,"208265,""Justice of the Supreme Court"",Lisa Neubauer",Audit Incorrect,Scratch out otherwise resulted in overvote.
+reviewed,"210217,""Madison Alderperson District 19"",undervote",Audit Incorrect,crease
+reviewed,"212034,""Madison Metropolitan Board Member Seat 5"",TJ Mertz",Audit Incorrect,EV lost last contest
+reviewed,"212060,""Madison Alderperson District 11"",undervote",Audit Incorrect,crease
+reviewed,"212266,""Madison Alderperson District 11"",undervote",Audit Incorrect,crease
+reviewed,"212232,""Madison Alderperson District 11"",undervote",Audit Incorrect,crease
+reviewed,"215452,""Madison Metropolitan Board Member Seat 3"",Kaleem Caire",Audit Incorrect,Scratch out should be ruled overvote before human review
+reviewed,"219216,all contests",Audit Incorrect,distorted bottom
+reviewed,"220033,""Mayor C Madison"",Paul R. Soglin",Audit Correct,
+reviewed,"220306,""Madison Metropolitan Board Member Seat 4"",Ali Janae Muldrow",Audit Correct,
+reviewed,"220316,""Madison Alderperson District 14"",Sheri Carter",Audit Incorrect,crease
+reviewed,"225554,""Circuit Court Judge Branch 16"",Rhonda L. Lanford",Audit Correct,
+reviewed,"228940,""Madison Metropolitan Board Member Seat 4"",David Blaska",Audit Correct,
+reviewed,"228940,""adison Metropolitan Board Member Seat 5"",TJ Mertz",Audit Correct,
+reviewed,"229835,""Mayor C Madison"",writein",Audit Correct,
+reviewed,"230065,""Madison Alderperson District 4"",undervote",Audit Incorrect,crease
+reviewed,"230235,""Madison Alderperson District 4"",Michael Verveer",Audit Incorrect,crease
+reviewed,"230387,""Court of Appeals Judge District IV"",Jennifer Nashold",Audit Correct,
+reviewed,"230540,Madison Alderperson District 4,undervote",Audit Incorrect,crease
+reviewed,"232131,""Mayor C Madison"",Paul R. Soglin",Audit Incorrect,Darker oval caused overvote
+reviewed,"233187,""Mayor C Madison"",Satya Rhodes-Conway",Audit Correct,
+reviewed,"235966,""Mayor C Madison"",Satya Rhodes-Conway",Audit Correct,
+reviewed,"236894,""Madison Alderperson District 4"",Michael Verveer",Audit Incorrect,crease
+reviewed,"239512,""Court of Appeals Judge District IV"",Jennifer Nashold",Audit Correct,
+reviewed,"240300,""Madison Alderperson District 6"",Marsha A. Rummel",Audit Incorrect,crease
+reviewed,"241227,""Madison Metropolitan Board Member Seat 5"",Ananda Mirilli",Audit Correct,
+reviewed,"243179,all contests",Audit Incorrect,alignment??
+reviewed,"243515,""Madison Metropolitan Board Member Seat 5"",TJ Mertz",Audit Incorrect,ev ballot misses vote at bottom.
+reviewed,"243824,""Madison Metropolitan Board Member Seat 5"",TJ Mertz",Audit Incorrect,voter 
+reviewed,"244515,""Madison Metropolitan Board Member Seat 4"",writein",Audit Correct,bubble filled but no name provided.
+reviewed,"245177,""Madison Alderperson District 18"",undervote",Audit Incorrect,crease
+reviewed,"245850,""Madison Alderperson District 18"",undervote",Audit Incorrect,crease
+reviewed,"247541,""Madison Alderperson District 12"",Syed Abbas",Audit Incorrect,crease
+reviewed,"252272,""Sun Prairie School Board Member (3)""3 writeins",Audit Incorrect,writein mistaken for ballot option using OCR
+reviewed,"253891,""Madison Alderperson District 15"",undervote",Audit Incorrect,crease
+reviewed,"256017,""Madison Metropolitan Board Member Seat 3"",Cristiana Carusi",Audit Incorrect,hesitation mark should be disregarded
+reviewed,"257842,""Madison Alderperson District 3"",Mike Cerro",Audit Correct,
+reviewed,"257842,""Madison Metropolitan Board Member Seat 3"",Kaleem Caire",Audit Correct,
+reviewed,"258577,""Mayor C Madison"",Paul R. Soglin",Audit Correct,
+reviewed,"264880,""Madison Alderperson District 19"", undervote",Audit Incorrect,crease on writein
+reviewed,"265121,all contests",Audit Incorrect,?? mystery
+reviewed,"265279,""Madison Alderperson District 19"",Keith Furman",Audit Correct,
+reviewed,"265626,""Madison Alderperson District 19"",undervote",Audit Incorrect,crease
+reviewed,"265807,""Madison Metropolitan Board Member Seat 4"",Ali Janae Muldrow",Audit Correct,
+reviewed,"265820,""Mayor C Madison"",Paul R. Soglin",Audit Correct,
+reviewed,"265898,""Justice of the Supreme Court"",undervote",Audit Incorrect,hesitation mark
+reviewed,"266347,""Court of Appeals Judge District IV"",Jennifer Nashold",Audit Correct,
+reviewed,"266347,""Justice of the Supreme Court"",Lisa Neubauer",Audit Correct,
+reviewed,"266347,""Madison Alderperson District 19"",Allison E. Martinson",Audit Correct,
+reviewed,"266421,all contests",Audit Incorrect,blank ballot misinterpreted
+reviewed,"266804,Madison Alderperson District 19,Allison E. Martinson",Audit Correct,
+reviewed,"269275,""Madison Alderperson District 20"",undervote",Audit Correct,voter slashes through contests not voted on. bubbles filled
+reviewed,"269275,""Madison Metropolitan Board Member Seat 3"",undervote",Audit Correct,voter slashes through contests not voted on. bubbles filled
+reviewed,"269275,""Madison Metropolitan Board Member Seat 4"",undervote",Audit Correct,voter slashes through contests not voted on. bubbles filled
+reviewed,"269554,""Madison Metropolitan Board Member Seat 5"",TJ Mertz",Audit Incorrect,ev ballot misses vote at bottom.
+reviewed,"269788,""Madison Metropolitan Board Member Seat 4"",David Blaska",Audit Correct,
+reviewed,"272352,""Madison Metropolitan Board Member Seat 4"",David Blaska",Audit Correct,
+reviewed,"272566,""Madison Alderperson District 7"",Badri Lankella",Audit Correct,
+reviewed,"273933,""Justice of the Supreme Court"",Lisa Neubauer",Audit Correct,
+reviewed,"274173,""Madison Metropolitan Board Member Seat 5"",Ananda Mirilli",Audit Correct,
+reviewed,"274461,""Madison Alderperson District 1"",undervote",Audit Incorrect,crease on writein
+reviewed,"274772,""Madison Alderperson District 1"",undervote",Audit Incorrect,crease on writein
+reviewed,"274863,""Madison Alderperson District 9"",Paul Skidmore",Audit Incorrect,crease on writein
+reviewed,"274927,""Madison Alderperson District 1"",undervote",Audit Incorrect,crease on writein
+reviewed,"274934,""Madison Alderperson District 9"",undervote",Audit Incorrect,crease on writein
+reviewed,"274954,""Madison Alderperson District 1"",Barbara Harrington-McKinney",Audit Incorrect,crease on writein
+reviewed,"276073,""Justice of the Supreme Court"",Lisa Neubauer",Audit Correct,
+reviewed,"276073,""Mayor C Madison"",Paul R. Soglin",Audit Correct,
+reviewed,"276096,""Madison Alderperson District 9"",undervote",Audit Incorrect,crease on writein
+reviewed,"277883,""Madison Alderperson District 9"",Paul Skidmore",Audit Incorrect,smudge on writein
+reviewed,"278750,""Madison Alderperson District 9"",Paul Skidmore",Audit Incorrect,crease on writein
+reviewed,"280468,""Madison Alderperson District 9"",Paul Skidmore",Audit Incorrect,crease on writein
+reviewed,"282698,""Madison Alderperson District 11"",undervote",Audit Incorrect,crease on writein
+reviewed,"283996,""Madison Metropolitan Board Member Seat 3"",Cristiana Carusi",Audit Correct,
+reviewed,"284732,all contests",Audit Incorrect,Sticker over bottom timing marks
+reviewed,"284935,all contests",Audit Incorrect,Sticker over bottom timing marks
+reviewed,"285061,all contests",Audit Incorrect,Sticker over bottom timing marks
+reviewed,"285160,all contests",Audit Incorrect,Sticker over bottom timing marks
+reviewed,"285227,all contests",Audit Incorrect,Sticker over bottom timing marks
+reviewed,"285826,""Madison Alderperson District 4"",Michael Vermeer",Audit Incorrect,crease
+reviewed,"288369,""Madison Alderperson District 16"",undervote",Audit Incorrect,crease on writein
+reviewed,"288734,""Circuit Court Judge Branch 16"",Rhonda L. Lanford",Audit Correct,
+#ballotid,187576,bug in ev decoding fixed,
+#ballotid,215292,,
+#ballotid,251916,,
+#ballotid,232570,,
+#ballotid,230255,,
+#ballotid,222475,,
+#ballotid,219926,,
+#ballotid,218065,,
+#ballotid,215376,,
+#ballotid,279693,,
+#ballotid,139837,,
+,,,
+#precinct,C Madison Wd 032 ,,
+#precinct,C Madison Wd 064,,
+#precinct,C Madison Wd 065,,
+#precinct,"C Sun Prairie Wds 6-9, 23",,
+#precinct,"C Sun Prairie Wds 10-14, 20-22, 24-25",,

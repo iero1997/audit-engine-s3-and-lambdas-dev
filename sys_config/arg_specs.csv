@@ -1,0 +1,163 @@
+group,name,abbr,type,format,required,multi,internal,choices,default,help
+,,,,,,,,,,
+# the following are determined by actions of the frontend and are not established by direct entry by user but through file chooser or basic configuration.,,,,,,,,,,
+bia_specs,input,i,str,localpath,,,TRUE,,,path to input csv file
+bia_specs,source,,list,filename,TRUE,TRUE,TRUE,,,ballot image archives -- ZIP archives. basename.ext of archives.    These should be explicitly provided and are appended to either archives folder path or archives_folder_s3path to create the full path.
+bia_specs,cvr,,list,filename,,TRUE,TRUE,,,"cast-vote-records, ZIP files, csv, or .xlsx files. (optional, multiple okay)"
+bia_specs,eif,,str,filename,TRUE,,TRUE,,,"Election Information file -- .xlsx or .csv file to provide contest name equivalencies (required, 1 only)"
+bia_specs,bof,,str,filename,,,TRUE,,,Ballot Options File -- .xlsx or .csv file provides option name equivalencies (optional)
+bia_specs,archives_folder_path,,str,localpath,,,TRUE,,,"path to archives folder using standard election naming convention, ST_County_YYYY_Type, like ""CA_San_Francisco_2020_Pri"". Use '/' and not '\\' in paths."
+bia_specs,archives_folder_s3path,,str,s3path,,,TRUE,,,path to archives folder on s3 file system using s3://bucket/prefix/ format
+bia_specs,job_folder_path,,str,localpath,,,TRUE,,,path to results and input files folder on local system
+bia_specs,job_folder_s3path,,str,s3path,,,TRUE,,,path to results and input files folder on s3 for lambdas coordination
+,,,,,,,,,,
+# the following are also determined by frontend but through direct user entry,,,,,,,,,,
+bia_specs,election_name,,str,,TRUE,,TRUE,,,Short election name used to identify election files uploaded.
+bia_specs,election_desc,,str,,,,TRUE,,,"Human readable string that describes the election, like ""San Francisco Consolidated Presidential Primary, 2020"""
+bia_specs,job_name,,str,,,,TRUE,,,the leaf of the job path above and is calculated from job_folder_path if not provided. Used in Lambdas processing.
+bia_specs,vendor,,str,,TRUE,,TRUE,"ES&S,Dominion",,"valid values: 'ES&S', 'Dominion', default is ES&S"
+,,,,,,,,,,
+# the following could be detemined by frontend with indirect user interaction.,,,,,,,,,,
+# archive structure,,,,,,,,,,
+bia_specs,include_archives,,list,filename,,TRUE,,,,list of archive names (w/ .zip) to include in run
+bia_specs,exclude_archives,,list,filename,,TRUE,,,,list of archive names (w/ .zip) to exclude in run
+bia_specs,precinct-folder,,int,,,,,,0,"offset within the source bia zip files to precinct subfolder (default 0, -1 indicates no folder)"
+bia_specs,party-folder,,int,,,,,,1,"offset within the source bia zip files to party subfolder (default 1, -1 indicates no folder)"
+bia_specs,group-folder,,int,,,,,,-1,"offset within the source bia zip files to group subfolder (default -1, -1 indicates no folder)"
+bia_specs,precinct_pattern,,str,regex,,,,,,regex to extract precinct from filename
+bia_specs,precinct_folder_pattern,,str,regex,,,,,,regex to extract precinct from precinct folder name
+,,,,,,,,,,
+# cvr structure,,,,,,,,,,
+bia_specs,use_cvr_columns_without_replacement,,bool,,,,,,FALSE,"In theory, the EIF needs only to have the official_contest_name column and not original_contest_name column, and then we do not need to substitute the columns names before processing. However, to date, the column names have not been reliably unique and sufficiently descriptive. Thus, the column in the EIF is used as replacement CVR header so we can process it."
+bia_specs,initial_cvr_cols,,str,csv_list,,,,,"'Cast Vote Record', 'Precinct', 'Style'",specify the initial CVR columns
+bia_specs,cvr_option_regex,,str,regex,,,,,,"regular expression to use to extract options from decorated CVR values. this currently doesn't work very well, and instead decoration such as three-character party desigations and option numbers '(NNNNN)' are removed."
+bia_specs,convert_cvr_image_cells_to_writein,,bool,,,,,,FALSE,sometimes CVR is created with writein images in cells. Convert these to 'writein:'. True for Wakulla 2018 set.
+,,,,,,,,,,
+# genbif - includes settings of the ballots as a whole,,,,,,,,,,
+# includes filter selectors for other steps as well.,,,,,,,,,,
+bia_specs,check_ballots,,bool,,,,,,TRUE,"during cvr processing, check bia files to verify that all ballot files exist and all are represented in cvr file."
+bia_specs,incremental_genbif,,bool,,,,,,FALSE,"during gentemplate, code will look for already built nonBMD template and not build it again. Does not affect BMD analysis."
+bia_specs,genbif_ballots_per_chunk,,int,,,,TRUE,,0,number of ballots per chunk when generating bif table.
+bia_specs,genbif_chunk_limit,,int,,,,TRUE,,0,"instead of processing all chunks, if this is specified, it will limit the number of chunks artificially. Used for testing"
+bia_specs,BMDs_exist,,bool,,,,,,TRUE,"if BMDs_exist is False, then no attempt will be made to identify bmd vs nonbmd"
+bia_specs,BMD_det_method,,str,,,,,"size,image",size,method by which BMDs will be discriminated from nonBMDs.
+bia_specs,BMD_filesize_threshold,,int,,,,,,0,"if set, then this will be used instead of the default. This works for ES&S ballots that have a big difference between nonBMD and BMD ballots, but it varies based on the complexity of the ballots. This could be determined using adaptive thresholding. Size of PDF file for example, in bytes"
+bia_specs,include_precinct,,list,,,TRUE,,,,"precinct names to include (optional, multiple okay, default is all precincts)"
+bia_specs,exclude_precinct,,list,,,TRUE,,,,"precinct names to include (optional, multiple okay, default is all precincts)"
+bia_specs,ballotid,,str,,,,,,,"ballot numbers to include (optional, multiple okay, default is all ballots)"
+bia_specs,exclude_ballotid,,list,,,TRUE,,,,"list ballots that should be excluded from gentemplates phase (optional, multiple OK, default = include all ballots)"
+bia_specs,pstyle_region,,str,json,,,,,,"json dict of region where printed style_num can be found, like {""s"": 0, ""p"": 0, ""x"": 1284, ""y"": 2641, ""h"": 126, ""w"": 219 }"
+bia_specs,pstyle_pattern,,str,regex,,,,,,regex to extract pstyle from OCR region
+,use_pstyle_as_style_num,,bool,,,,,,FALSE,"if True, the printed style number as located by pstyle_region and pstyle_pattern are used as the primary style identifier."
+,,,,,,,,,,
+# styles generation,,,,,,,,,,
+bia_specs,manual_styles_to_contests_filename,,str,filename,,,TRUE,,,filename of CSV file with manually generated contest map. First column should be contest names. Columns should be headed with style_num.  each cell has '1' in it if the style has that contest. In config folder.
+bia_specs,style_lookup_table_filename,,str,filename,,,TRUE,,,"filename lookup table to derive style from the party, precinct, and sheet. .xlsx or csv.  Columns are 'precinct','party','card_code','style_num'. Precinct and party should match path strings. In config folder."
+bia_specs,threshold,,int,,,,,,50,"the number of ballots of each style to combine to create ballot templates (int, default 50)"
+bia_specs,allow_style_from_cvr,,bool,,,,,,FALSE,"when producing templates, if ballotid to style information is known, rely on it instead of reading style info from ballot."
+bia_specs,all_styles_have_all_contests,,bool,,,,,,FALSE,"when no ""Style"" column exists in cvr, sometimes all ballots have all contests and then this is a shortcut to specify the style for each ballot."
+bia_specs,style_map_override,,str,csv_list,,TRUE,,,,"if a contest cannot be mapped in a style, this provides override information. csv_str format, multiple okay entries should be 
+       style_num, contest_name_str, roi_number.
+The roi number can be derived by inspecting the log and is the first roi where the contest should be mapped. This setting will work only if NOT use_ocr_based_genrois. See also merged_styles"
+bia_specs,incremental_gentemplate,,bool,,,,,,FALSE,"during gentemplate, code will look for already built nonBMD template and not build it again. Does not affect BMD analysis."
+bia_specs,min_ballots_required,,int,,,,,,1,"during gentemplate, require that any style have at least this number of ballots. Any style that does not meet this threshold will not be generated."
+bia_specs,style_from_precinct_regex,,str,regex,,,,,,"use this regex to extract the style from the precinct string, when they are munged together."
+bia_specs,style_num_low_limit,,int,,,,,,,lowest valid style number. Used to find likely invalid style values. Only works if the style designators are integers.
+bia_specs,style_num_high_limit,,int,,,,,,,highest valid style number. Used to find likely invalid style values. Only works if the style designators are integers.
+bia_specs,include_style_num,,list,,,TRUE,,,,style_num to include in genrois. Okay to have multiple declarations. Empty list means include all styles.
+bia_specs,exclude_style_num,,list,,,TRUE,,,,style_num to exclude in genrois. Okay to have multiple declarations. Empty list means include all styles.
+bia_specs,diagnose_ocr_styles,,list,,,TRUE,,,,style_nums to subject to extensive variations of ocr generation and reporting. Multiple ok.
+bia_specs,diagnose_ballotid,,list,,,TRUE,,,,ballot_id of ballot to produce additional diagnostic information. Multiple declarations OK.
+bia_specs,writein_str,,str,,,,,,,string used on ballots to in indicate a write-in.
+bia_specs,merge_similar_styles,,bool,,,,,,,"if a style is known to be identical to another style, merge them."
+bia_specs,merged_styles,,str,json,,,,,,"single entry is JSON dict like 
+{merged_style_num: merged_to_style_num, ...}  
+when styles do not map, then during extractvote, this dict will be consulted for any merged styles."
+bia_specs,non_partisan_sheet0s,,str,csv_list,,,,,,"list of sheet0 numbers (0,1,...) that are the same across all parties."
+bia_specs,question_contests_have_no_contest_name,,bool,,,,,,,"In some layouts, the description of the contest is essentially the contest name for question type contests."
+bia_specs,layout,,str,,,,,"separated, fully_joined",,"type of layout for roi mapping. 'separated','fully_joined','partially_joined'"
+bia_specs,page_layout,,str,json,,,,,,"JSON list of list of layout types in sheet, page order. Default is [['3col','3col'],...] Valid keys are '3col', '2col', '1col'"
+bia_specs,target_side,,str,,,,,"left,right",left,either 'left' (default) or 'right'
+bia_specs,yes_no_in_descr,,bool,,,,,,,yes and no are in the description box usually when target_side = 'right' at a specific location.
+bia_specs,add_line,,str,json,,TRUE,,,,"each entry is JSON dict in the following format:
+{'styles':[set of styles], 's':s, 'p':p, 'x':x, 'y':y, 'h':h, 'w':w, 'r':, 'ox':offset_x, 'oy':offset_y}
+add black boxes (typically lines) based on JSON formatted data. draw on styles listed, on page p of sheet s, starting at x, y and with dimensions h, w
+if provided, repeat r times (default is 1) with offset_x, and offset_y as provided as ox, oy, 
+x, y required. h, w default to 2. s, p default to 0, rep defaults to 1. ox, oy default to 0
+Entries in list of styles are treated as regular expressions."
+bia_specs,active_region,,str,json,,TRUE,,,,"each entry is for a given set of styles, sheet, and page. Format similar to add_line. Multiple entries are OK.
+{'styles':[set of styles], 's':s, 'p':p, 'x':x, 'y':y, 'h':h, 'w':w}                                     This replaces the y_offset_page_x directives. Generally, all parameters are optional except for y. The active region defines where ROIS will be searched for, and will be potentially inserted up to that boundary. Only one region is currently supported per page and only y parameter is honored.      Entries in list of styles are treated as regular expressions."
+bia_specs,find_lines_region,,str,json,,TRUE,,,,"Provides a region where lines (either h or v) will be searched for and then drawn
+{'styles':[set of styles], 's':s, 'p':p, 'x':x, 'y':y, 'h':h, 'w':w, 'h_or_v':'h'or'v', 'h_min':h_min, 'snap':'midgap'} 
+In the specified styles (default is all styles), on page p of sheet s, in region x,y,w,h, search for lines and draw them in, but no closer than h_min from the prior line drawn. Unspecified h_min defaults to 0. Use 60 to force at least two timing mark gaps. Entries in list of styles are treated as regular expressions."
+bia_specs,maprois_max_slip_os,,int,,,,,,3,"if a match between expected contests and rois does not occur, how far ahead should it search for the next match in rois. This should be at least 1 greater than the number of blank or filler rois."
+bia_specs,link_faulty_lines,,bool,,,,,,TRUE,"if no human assisted lined are provided, then if this is enabled, improve horizontal and vertical lines using image enhancing methods. Does not work very well if gray ""COPY"" watermark exists."
+bia_specs,contest_max_slip_os,,int,,,,,,1000,"if a match between expected contests and rois does not occur, how far ahead should it search for the next match in contests. This should be at least 1 greater than the number of contest in list of contests which must be skipped to get to the next contest in this style. Default of 1000 means no limit"
+bia_specs,mapping_mode,,str,,,,,"exact,tree,full",,"sets mapping mode of maprois
+'exact' - style_num is key to style_to_contests_dol
+              the exact list of contests is available.
+'tree'  - style_num is not key to style_to_contests_dol.
+              but style_to_contests_dol exists. 
+              Search over tree of contests.
+'full'  - style_to_contests_dol is missing.
+              search across all contests."
+bia_specs,max_additional_descr_rois,,int,,,,,,1,"If there are gaps included in description of question type contests, how many additional paragraphs should be included after splitting due to splitting on gaps. If splitting on gaps is not performed, this has no operational effect."
+bia_specs,fuzzy_compare_mode,,str,,,,,"left_only, right_only, full_only, best_of_all",best_of_all,"one of the following: 'left_only', 'right_only', 'full_only', 'best_of_all' which controls how strings are compared during fuzzy matching. 'left_only' should be used if the match is likely found in the first left characters. use 'best_of_all' (default) if it is unknown, but mapping is 1/3 the time if only one of the three modes is used. "
+bia_specs,split_rois_at_white_gaps,,bool,,,,,,FALSE,"if true, rois will be split in at white gaps."
+bia_specs,initial_white_gap,,int,,,,,,12,"number of rows of white required for the initial white gap, typically after a contest header."
+bia_specs,subsequent_white_gaps,,int,,,,,,12,"number of rows of white required for the subsequent white gaps, typically between options."
+bia_specs,split_roi_min_gap,,int,,,,,,15,minimum number of pixel rows before split will occur if 'split_rois_at_white_gaps' is enabled.
+bia_specs,save_checkpoint_images,,bool,,,,,,FALSE,save checkpoint images during template and rois generation
+bia_specs,unused_trailing_rois,,int,,,,,,10,"number of ""blank"" rois that may exist and are not considered an error. This occurs at end of rois for a sheet."
+bia_specs,conv_card_code_to_style_num,,bool,,,,,,TRUE,"use an additional conversion of card_code to style_num. Default True.         if False, style_num <- card_code
+for ES&S, if False, this will use the card_code directly instead of extracting the style_number from the barcode. This is useful if we don't yet understand the code and do not need to index into any cvr style_num"
+bia_specs,use_stretch_fix,,bool,,,,TRUE,,TRUE,"if true (default), enable the stretch-fix algorithm"
+bia_specs,h_max_option,,int,,,,,,,maximum vertical dimension of block to be considered option (vendor specific default if not set)
+bia_specs,use_ocr_based_genrois,,bool,,,,TRUE,,TRUE,"if true, do not rely on breaking down rois into individual blocks, and instead use OCR-based extraction techniques"
+bia_specs,insert_rois_in_gaps,,bool,,,,,,TRUE,"if true, then additional rois will be inserted between rois on the page. Missing rois are due to black areas. Not needed for OCR-based rois generation"
+bia_specs,use_style_discovery,,bool,,,,TRUE,,,"This mode of operation works with use_ocr_based_genrois, and requires clear ballots without gray backgrounds. It is not necessary to understand the style system being used as the contests are assigned to the style based on what is found on the ballot. May not work if contest names are not clear or not unambiguous or if options do not exist (writeins only)"
+bia_specs,compare_contest_name,,bool,,,,,,TRUE,"If contest name exists, it must match to declare a contest match"
+bia_specs,permute_option_list,,bool,,,,,,TRUE,"if True (default) compare ocr option list with all permutations of ballot_option_list in EIF.  Otherwise, only compare with the options and order provided in the EIF.  Depends on state law if ballot options are shuffled on different styles."
+bia_specs,rem_target_from_ocr_str,,bool,,,,,,TRUE,"When working with 'use_ocr_based_genrois', and if targets are on the left, then frequently the ocr string will be preceeded by '@ ' or '(c) ', a single character and space. this control strips this when options are compared."
+bia_specs,include_gentemplate_tasks,,bool,,,,TRUE,,TRUE,gentemplate includes a number of sub-tasks. This setting enables template task generation.
+bia_specs,include_gentemplate,,bool,,,,TRUE,,TRUE,gentemplate includes a number of sub-tasks. This setting enables base template generation. Template_tasks must have already completed successfully.
+bia_specs,include_genrois,,bool,,,,TRUE,,TRUE,gentemplate includes a number of sub-tasks. This setting enables rois generation and OCR. gentemplate must have already completed successfully.
+bia_specs,include_maprois,,bool,,,,TRUE,,TRUE,gentemplate includes a number of sub-tasks. This setting enables rois mapping. genrois must have already completed successfully.
+bia_specs,use_single_template_task_file,,bool,,,,TRUE,,TRUE,"combine all template tasklists into a single json file, consisting of template_tasklists_dodf. Saves time instead of writing a separate file for each tasklist."
+bia_specs,use_template_matching,,bool,,,,TRUE,,FALSE,use template matching instead of contours recognition by OpenCV for detecting alignment marks and timing marks.
+bia_specs,save_failed_styles_to_assist_folder,,bool,,,,,,TRUE,"If a style fails to map, copying them to the assist folder allows the failed styles to be reviewed and possibly add lines to assist with graphical decomposition. Not needed for use_ocr_based_genrois mode."
+bia_specs,apply_human_assisted_lines,,bool,,,,,,FALSE,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+# vote extraction directives,,,,,,,,,,
+bia_specs,limit,,int,,,,,,0,"only process this many ballots in extraction mode. (int, optional, default is 0 = no limit)"
+bia_specs,skip,,int,,,,,,0,"continue current extraction but start at nth ballot (int, optional, default is 0)"
+bia_specs,include_bmd_ballot_type,,bool,,,,,,TRUE,"include BMD ballots in the extraction, (Yes/No, default Yes)"
+bia_specs,include_nonbmd_ballot_type,,bool,,,,,,TRUE,"include nonBMD ballots in the extraction, (Yes/No, default Yes)"
+bia_specs,expressvote_header,,str,,,,,,,"the header expected in expressvote ballots to check whether they appear valid. csv_str, single-value only. (no default, required for expressvote ballots)"
+bia_specs,ballot_style_override,,str,csv_list,,TRUE,,,,"when the style cannot be read from the ballot, this entry provides the style (optional, multiple OK, csv_str: ""ballotid"",""style_num"")"
+bia_specs,save_mark_images,,bool,,,,,,FALSE,"if enabled, save every mark image in the folder results/NNNNNN where NNNNN is the ballotid."
+bia_specs,incremental_extraction,,bool,,,,,,FALSE,"if enabled, skip ballots that already have been extracted (i.e. marks_df record exists)"
+bia_specs,remove_unmarked_records,,bool,,,,,,FALSE,"to allow adaptive thresholding to work properly, we maintain all records in the marks_df. When creating the combined_marks_df these are normally removed."
+bia_specs,ballots_per_chunk,,int,,,,,,200,the number of ballots to include in an extraction chunk for a single lambda to process. Limited by the max lambda processing time.
+bia_specs,upload_extraction_tasks_to_s3,,bool,,,,TRUE,,TRUE,
+,,,,,,,,,,
+# comparison and reporting,,,,,,,,,,
+bia_specs,url,,str,url,,,TRUE,,,url to official summary report for scraping operation to get all contest names and official summary vote counts.
+,,,,,,,,,,
+# system,,,,,,,,,,
+bia_specs,lambda_function,,str,,,,TRUE,,all,name of a Lambda function to update. It should be a string with function name like 'generate_template' or 'all' if you want to update all the functions.
+bia_specs,update_branch,,str,,,,TRUE,,master,branch name from which we want to update Lambda function. It should be a string with branch name like 'width-first-reorg'.
+bia_specs,use_lambdas,,bool,,,,TRUE,,FALSE,True if processing should be delegated to AWS Lambdas for parallel processing.
+bia_specs,use_s3_archives,,bool,,,,TRUE,,FALSE,use s3 to access archives even if lambdas is not enabled. Useful for debugging interface with s3 without using lambdas
+bia_specs,use_s3_results,,bool,,,,TRUE,,FALSE,use s3 to for results even if lambdas is not enabled. Useful for debugging interface with s3 without using lambdas
+bia_specs,max_lambda_concurrency,,int,,,,TRUE,,1000,Limit of concurrency when chunk size is calculated to maximize concurrency.
+bia_specs,op,,str,,,,TRUE,,,operation code
+bia_specs,one_lambda_first,,bool,,,,TRUE,,TRUE,"When using lambdas, process one chuck fully to make sure there are no errors before launching the rest."
+bia_specs,use_s3_config,,bool,,,,TRUE,,FALSE,"use config data on s3, at s3://{job_bucket}/{job_name}/config/, such as EIF, BOF, etc."
+bia_specs,save_lambda_task_args,,bool,,,,TRUE,,FALSE,True if you want to save task_args for first chunk in file so that lambda can be debug locally by reading this file.
+,,,,,,,,,,
+,,,,,,,,,,
+bia_specs,verbose,v,int,,,,TRUE,"0,1,2,3",0,"set verbosity level. 0 = no messages, 1 = urgent messages only, 2 = high-level tacking, 3 = all messages. (default: 0)"
+bia_specs,remove,,bool,,,,TRUE,,FALSE,start over and delete all generated data.

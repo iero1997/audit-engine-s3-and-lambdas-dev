@@ -1,0 +1,20 @@
+official_contest_name,in_group,ex_group,ballot_contest_name,bmd_contest_name,vote_for,writein_num,official_options,description
+#Cast Vote Record,,,,,,,,
+#Precinct,,,,,,,,
+President (DEM),,1,"President
+(Vote for One)
+Presidente 
+(Vote por Uno)",DEM PRESIDENT,1,0,"Michael Bennet, Joe Biden, Michael R. Bloomberg, Cory Booker, Pete Buttigieg, Julian Castro, John Delany, Tulsi Gabbard, Amy Klobuchar, Deval Patrick, Bernie Sanders, Joe Sestak, Tom Steyer, Elizabeth Warren, Marianne Williamson, Andrew Yang",
+President (REP),,1,"President
+(Vote for One)
+Presidente 
+(Vote por Uno)",REP PRESIDENT,1,0,"Roque ""Rocky"" De La Fuente, Donald J. Trump, Joe Walsh, Bill Weld",
+"Mayor, City of Naples",1,,"Mayor 
+(Vote for One)
+Alcalde
+(Vote por Uno)",,1,0,"Bill Barnett, Theresa Lee Heitmann",
+"City Council, City of Naples",1,,"City of Naples City Council
+(Vote for up to Three)
+Ayuntamiento de Ciudad de
+Naples
+(Vote por hasta Tres)",,3,0,"Edward ""Ted"" Blankenship, Reg Buxton, Mike McCabe, Michelle McLeod, Paul E. Perry, Ellen Seigel",

@@ -1,0 +1,8 @@
+name,abbr,type,format,required,choices,default,help
+aws_primary_region,,str,,TRUE,,us-east-1,
+election_data_public_s3path,,str,s3path,,,s3://us-east-1-audit-engine-election-data,
+election_data_private_s3path,,str,s3path,,,s3://us-east-1-audit-engine-election-data-private,
+audit_jobs_s3path,,str,s3path,,,s3://us-east-1-audit-engine-jobs,
+audit_jobs_dev_s3path,,str,s3path,,,s3://us-east-1-audit-engine-jobs-dev,
+lambdas_layers_s3path,,str,s3path,,,s3://us-east-1-layers,
+aws_account,,str,,,,174397498694,

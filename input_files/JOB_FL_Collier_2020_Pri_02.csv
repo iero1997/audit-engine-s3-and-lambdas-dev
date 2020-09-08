@@ -1,0 +1,91 @@
+argument,value
+election_name,FL_Collier_2020_Pri
+election_desc,"Collier County FL, 2020 Presidential Primary Election"
+archives_folder_path,R:\BallotImageArchive\FL_Collier_2020_Pri\
+archives_folder_s3path,s3://us-east-1-audit-engine-election-data/US/FL/FL_Collier_2020_Pri/
+source,FL_Collier_2020_Pri-BallotImages.zip
+source,FL_Collier_2020_Pri-BallotImages-1.zip
+job_folder_path,C:\Users\raylu\Documents\GitHub\audit-engine\resources\FL_Collier_2020_Pri_02
+job_folder_s3path,s3://us-east-1-audit-engine-jobs/US/FL/FL_Collier_2020_Pri_02/
+job_name,FL_Collier_2020_Pri_02
+vendor,ES&S
+cvr,(not available)
+eif,EIF_FL_Collier_2020_Pri.csv
+manual_styles_to_contests_filename,FL_Collier_2020_Pri_contests_in_styles.csv
+#style_lookup_table_filename,FL_Collier_2020_Pri_style_lookup.csv
+threshold,50
+check_ballots,No
+allow_style_from_cvr,No
+save_checkpoint_images,Yes
+incremental_genbif,No
+genbif_ballots_per_chunk,200
+genbif_chunk_limit,0
+incremental_gentemplate,No
+incremental_extraction,Yes
+,
+precinct-folder,0
+party-folder,1
+group-folder,-1
+layout,fully_joined
+split_roi_min_gap,15
+BMDs_exist,Yes
+use_stretch_fix,Yes
+initial_cvr_cols,
+h_max_option,115
+conv_card_code_to_style_num,No
+precinct_folder_pattern,"""(\d+)"""
+BMD_filesize_threshold,10000
+expressvote_header,"COLLIER COUNTY/FLORIDA
+OFFICIAL PRESIDENTIAL PREFERENCE PRIMA
+03/17/2020"
+pstyle_region,"{""s"": 0, ""p"": 0, ""x"": 1284, ""y"": 2641, ""h"": 126, ""w"": 235 }"
+pstyle_pattern,"""^.*(\d{5}).*"""
+use_pstyle_as_style_num,TRUE
+style_num_low_limit,11010
+style_num_high_limit,39999
+use_ocr_based_genrois,TRUE
+insert_rois_in_gaps,FALSE
+use_style_discovery,TRUE
+compare_contest_name,TRUE
+permute_option_list,FALSE
+rem_target_from_ocr_str,TRUE
+link_faulty_lines,TRUE
+,
+use_lambdas,FALSE
+use_s3_archives,Yes
+use_s3_results,Yes
+one_lambda_first,Yes
+include_gentemplate_tasks,FALSE
+include_gentemplate,FALSE
+include_genrois,Yes
+include_maprois,Yes
+lambda_function,generate_template
+update_branch,s3-and-lambdas-dev
+use_single_template_task_file,TRUE
+,
+min_ballots_required,10
+save_checkpoint_images,TRUE
+use_s3_config,FALSE
+save_lambda_task_args,FALSE
+,
+mapping_mode,tree
+#active_region,"{""y"": 600} "
+apply_human_assisted_lines,FALSE
+save_failed_styles_to_assist_folder,TRUE
+,
+#include_style_num ,11561
+#include_style_num ,21552
+#include_style_num ,23220
+#include_style_num ,24400
+#include_style_num ,34750
+#include_style_num ,24771
+#include_style_num ,13043
+#include_style_num ,21552
+#include_style_num ,23042
+,
+#include_style_num ,13041
+#include_style_num ,23043
+,
+merged_styles,"{""13041"":""11011"",""21552"":""21442"",""23043"":""21013""}"
+,
+include_style_num ,24301

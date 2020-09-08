@@ -1,0 +1,33 @@
+argument,value
+source,R:\BallotImageArchive\FL_Wakulla_2018\Wakulla County FL_General Election 2018.zip
+job,resources/Wakulla18-05
+job_name,FL_Wakulla_2018-05
+cvr,R:\BallotImageArchive\FL_Wakulla_2018\Wakulla County FL_2018 GE Vote Cast Log.xlsx
+eif,C:\Users\raylu\Documents\GitHub\audit_engine\EIFs\EIF_Wakulla_2018_General.xlsx
+bof,C:\Users\raylu\Documents\GitHub\audit_engine\EIFs\BOF_Wakulla_2018_General.xlsx
+threshold,50
+check_ballots,Yes
+allow_style_from_cvr,Yes
+initial_cvr_cols,Cast Vote Record
+initial_cvr_cols,Precinct
+party-folder,-1
+precinct-folder,1
+all_styles_have_all_contests,Yes
+question_contests_have_no_contest_name,No
+layout,fully_joined
+split_rois_at_white_gaps,Yes
+#cvr_option_regex,(DEM|REP|NPA|REF|LIB|GRN)?\s*(.*?)\s*\(\d+\)
+use_built_ballotid_to_styles_dict,Yes
+ballot_style_override,"9679,2"
+include_bmd_ballot_type,Yes
+include_nonbmd_ballot_type,Yes
+save_mark_images,No
+#ballotid,6042
+#ballotid,6043
+#ballotid,6041
+convert_cvr_image_cells_to_writein,Yes
+style_from_precinct_regex,^(\d+)\s.*$
+incremental_gentemplate,Yes
+incremental_extraction,Yes
+merged_styles,"{""9"":""8""}"
+use_lambdas,No

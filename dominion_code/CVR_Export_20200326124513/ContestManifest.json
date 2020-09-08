@@ -1,0 +1,197 @@
+{
+    "Version": "5.10.11.24",
+    "List": [
+        {
+            "Description": "President DEM",
+            "Id": 7,
+            "ExternalId": "100",
+            "DistrictId": 101,
+            "VoteFor": 1,
+            "NumOfRanks": 0
+        },
+        {
+            "Description": "President REP",
+            "Id": 8,
+            "ExternalId": "101",
+            "DistrictId": 101,
+            "VoteFor": 1,
+            "NumOfRanks": 0
+        },
+        {
+            "Description": "President AI",
+            "Id": 9,
+            "ExternalId": "102",
+            "DistrictId": 101,
+            "VoteFor": 1,
+            "NumOfRanks": 0
+        },
+        {
+            "Description": "President GRN",
+            "Id": 10,
+            "ExternalId": "104",
+            "DistrictId": 101,
+            "VoteFor": 1,
+            "NumOfRanks": 0
+        },
+        {
+            "Description": "President P&F",
+            "Id": 11,
+            "ExternalId": "105",
+            "DistrictId": 101,
+            "VoteFor": 1,
+            "NumOfRanks": 0
+        },
+        {
+            "Description": "President LIB",
+            "Id": 12,
+            "ExternalId": "106",
+            "DistrictId": 101,
+            "VoteFor": 1,
+            "NumOfRanks": 0
+        },
+        {
+            "Description": "CCC District 17 DEM",
+            "Id": 23,
+            "ExternalId": "3010",
+            "DistrictId": 116,
+            "VoteFor": 14,
+            "NumOfRanks": 0
+        },
+        {
+            "Description": "CCC District 19 DEM",
+            "Id": 22,
+            "ExternalId": "3000",
+            "DistrictId": 117,
+            "VoteFor": 10,
+            "NumOfRanks": 0
+        },
+        {
+            "Description": "CCC District 17 REP",
+            "Id": 24,
+            "ExternalId": "3110",
+            "DistrictId": 116,
+            "VoteFor": 11,
+            "NumOfRanks": 0
+        },
+        {
+            "Description": "US House of Rep District 12",
+            "Id": 13,
+            "ExternalId": "1020",
+            "DistrictId": 119,
+            "VoteFor": 1,
+            "NumOfRanks": 0
+        },
+        {
+            "Description": "US House of Rep District 13",
+            "Id": 14,
+            "ExternalId": "1030",
+            "DistrictId": 120,
+            "VoteFor": 1,
+            "NumOfRanks": 0
+        },
+        {
+            "Description": "US House of Rep District 14",
+            "Id": 15,
+            "ExternalId": "1040",
+            "DistrictId": 121,
+            "VoteFor": 1,
+            "NumOfRanks": 0
+        },
+        {
+            "Description": "STATE SENATOR District 11",
+            "Id": 16,
+            "ExternalId": "1130",
+            "DistrictId": 118,
+            "VoteFor": 1,
+            "NumOfRanks": 0
+        },
+        {
+            "Description": "STATE ASSEMBLY MEMBER District 17",
+            "Id": 18,
+            "ExternalId": "1310",
+            "DistrictId": 116,
+            "VoteFor": 1,
+            "NumOfRanks": 0
+        },
+        {
+            "Description": "STATE ASSEMBLY MEMBER District 19",
+            "Id": 17,
+            "ExternalId": "1210",
+            "DistrictId": 117,
+            "VoteFor": 1,
+            "NumOfRanks": 0
+        },
+        {
+            "Description": "Superior Court Judge Seat 1",
+            "Id": 19,
+            "ExternalId": "2200",
+            "DistrictId": 103,
+            "VoteFor": 1,
+            "NumOfRanks": 0
+        },
+        {
+            "Description": "Superior Court Judge Seat 18",
+            "Id": 20,
+            "ExternalId": "2318",
+            "DistrictId": 103,
+            "VoteFor": 1,
+            "NumOfRanks": 0
+        },
+        {
+            "Description": "Superior Court Judge Seat 21",
+            "Id": 21,
+            "ExternalId": "2321",
+            "DistrictId": 103,
+            "VoteFor": 1,
+            "NumOfRanks": 0
+        },
+        {
+            "Description": "Proposition 13",
+            "Id": 1,
+            "ExternalId": "1",
+            "DistrictId": 103,
+            "VoteFor": 1,
+            "NumOfRanks": 0
+        },
+        {
+            "Description": "Proposition A",
+            "Id": 2,
+            "ExternalId": "2",
+            "DistrictId": 103,
+            "VoteFor": 1,
+            "NumOfRanks": 0
+        },
+        {
+            "Description": "Proposition B",
+            "Id": 3,
+            "ExternalId": "3",
+            "DistrictId": 103,
+            "VoteFor": 1,
+            "NumOfRanks": 0
+        },
+        {
+            "Description": "Proposition C",
+            "Id": 4,
+            "ExternalId": "4",
+            "DistrictId": 103,
+            "VoteFor": 1,
+            "NumOfRanks": 0
+        },
+        {
+            "Description": "Proposition D",
+            "Id": 5,
+            "ExternalId": "5",
+            "DistrictId": 103,
+            "VoteFor": 1,
+            "NumOfRanks": 0
+        },
+        {
+            "Description": "Proposition E",
+            "Id": 6,
+            "ExternalId": "6",
+            "DistrictId": 103,
+            "VoteFor": 1,
+            "NumOfRanks": 0
+        }
+    ]
+}

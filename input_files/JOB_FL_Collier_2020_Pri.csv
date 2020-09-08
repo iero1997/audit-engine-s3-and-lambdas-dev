@@ -1,0 +1,31 @@
+argument,value
+ElectionId,"Collier County FL, 2020 Presidential Primary Election"
+archives_folder_path,R:/BallotImageArchive/FL_Collier_2020_Pri
+election_name,FL_Collier_2020_Pri
+job,resources/FL_Collier_2020_Pri
+job_name,FL_Collier_2020_Pri
+vendor,ES&S
+cvr,(not available)
+eif,C:/Users/raylu/Documents/GitHub/audit-engine/EIFs/EIF_FL_Collier_2020_Pri.csv
+manual_styles_to_contests,C:/Users/raylu/Documents/GitHub/audit-engine/EIFs/FL_Collier_2020_Pri_contests_in_styles.csv
+#use_built_ballotid_to_style_dict,Yes
+threshold,50
+check_ballots,No
+allow_style_from_cvr,No
+incremental_genbif,No
+incremental_gentemplate,No
+incremental_extraction,Yes
+use_lambdas,No
+precinct-folder,0
+party-folder,1
+group-folder,-1
+layout,fully_joined
+split_roi_min_gap,15
+BMDs_exist,Yes
+style_from_party,"{""Democratic Party"":""1"",""Republican Party"":""2""}"
+use_s3,No
+use_stretch_fix,Yes
+initial_cvr_cols,
+h_max_option,115
+conv_card_code_to_style_num,No
+update_branch,s3-and-lambdas-dev

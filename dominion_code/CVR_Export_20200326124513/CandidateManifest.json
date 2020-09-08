@@ -1,0 +1,1342 @@
+{
+    "Version": "5.10.11.24",
+    "List": [
+        {
+            "Description": "JULIÁN CASTRO",
+            "Id": 13,
+            "ExternalId": "",
+            "ContestId": 7,
+            "Type": "Regular"
+        },
+        {
+            "Description": "MICHAEL A. ELLINGER",
+            "Id": 14,
+            "ExternalId": "",
+            "ContestId": 7,
+            "Type": "Regular"
+        },
+        {
+            "Description": "ELIZABETH WARREN",
+            "Id": 15,
+            "ExternalId": "",
+            "ContestId": 7,
+            "Type": "Regular"
+        },
+        {
+            "Description": "MARIANNE WILLIAMSON",
+            "Id": 16,
+            "ExternalId": "",
+            "ContestId": 7,
+            "Type": "Regular"
+        },
+        {
+            "Description": "ANDREW YANG",
+            "Id": 17,
+            "ExternalId": "",
+            "ContestId": 7,
+            "Type": "Regular"
+        },
+        {
+            "Description": "ROQUE \"ROCKY\" DE LA FUENTE III",
+            "Id": 18,
+            "ExternalId": "",
+            "ContestId": 7,
+            "Type": "Regular"
+        },
+        {
+            "Description": "JOHN K. DELANEY",
+            "Id": 19,
+            "ExternalId": "",
+            "ContestId": 7,
+            "Type": "Regular"
+        },
+        {
+            "Description": "AMY KLOBUCHAR",
+            "Id": 20,
+            "ExternalId": "",
+            "ContestId": 7,
+            "Type": "Regular"
+        },
+        {
+            "Description": "BERNIE SANDERS",
+            "Id": 21,
+            "ExternalId": "",
+            "ContestId": 7,
+            "Type": "Regular"
+        },
+        {
+            "Description": "JOE SESTAK",
+            "Id": 22,
+            "ExternalId": "",
+            "ContestId": 7,
+            "Type": "Regular"
+        },
+        {
+            "Description": "TOM STEYER",
+            "Id": 23,
+            "ExternalId": "",
+            "ContestId": 7,
+            "Type": "Regular"
+        },
+        {
+            "Description": "DEVAL PATRICK",
+            "Id": 24,
+            "ExternalId": "",
+            "ContestId": 7,
+            "Type": "Regular"
+        },
+        {
+            "Description": "MICHAEL BENNET",
+            "Id": 25,
+            "ExternalId": "",
+            "ContestId": 7,
+            "Type": "Regular"
+        },
+        {
+            "Description": "MICHAEL R. BLOOMBERG",
+            "Id": 26,
+            "ExternalId": "",
+            "ContestId": 7,
+            "Type": "Regular"
+        },
+        {
+            "Description": "MOSIE BOYD",
+            "Id": 27,
+            "ExternalId": "",
+            "ContestId": 7,
+            "Type": "Regular"
+        },
+        {
+            "Description": "CORY BOOKER",
+            "Id": 28,
+            "ExternalId": "",
+            "ContestId": 7,
+            "Type": "Regular"
+        },
+        {
+            "Description": "PETE BUTTIGIEG",
+            "Id": 29,
+            "ExternalId": "",
+            "ContestId": 7,
+            "Type": "Regular"
+        },
+        {
+            "Description": "JOSEPH R. BIDEN",
+            "Id": 30,
+            "ExternalId": "",
+            "ContestId": 7,
+            "Type": "Regular"
+        },
+        {
+            "Description": "TULSI GABBARD",
+            "Id": 31,
+            "ExternalId": "",
+            "ContestId": 7,
+            "Type": "Regular"
+        },
+        {
+            "Description": "MARK STEWART GREENSTEIN",
+            "Id": 32,
+            "ExternalId": "",
+            "ContestId": 7,
+            "Type": "Regular"
+        },
+        {
+            "Description": "Write-in",
+            "Id": 161,
+            "ExternalId": "",
+            "ContestId": 7,
+            "Type": "WriteIn"
+        },
+        {
+            "Description": "NAKIA L. ANTHONY",
+            "Id": 178,
+            "ExternalId": "",
+            "ContestId": 7,
+            "Type": "QualifiedWriteIn"
+        },
+        {
+            "Description": "DAPHNE DENISE BRADFORD",
+            "Id": 179,
+            "ExternalId": "",
+            "ContestId": 7,
+            "Type": "QualifiedWriteIn"
+        },
+        {
+            "Description": "WILLIE FELIX CARTER",
+            "Id": 180,
+            "ExternalId": "",
+            "ContestId": 7,
+            "Type": "QualifiedWriteIn"
+        },
+        {
+            "Description": "MICHAEL DENAME",
+            "Id": 181,
+            "ExternalId": "",
+            "ContestId": 7,
+            "Type": "QualifiedWriteIn"
+        },
+        {
+            "Description": "JEFFREY H. DROBMAN",
+            "Id": 182,
+            "ExternalId": "",
+            "ContestId": 7,
+            "Type": "QualifiedWriteIn"
+        },
+        {
+            "Description": "ROBERT JORDAN",
+            "Id": 183,
+            "ExternalId": "",
+            "ContestId": 7,
+            "Type": "QualifiedWriteIn"
+        },
+        {
+            "Description": "HEATHER MARIE STAGG",
+            "Id": 184,
+            "ExternalId": "",
+            "ContestId": 7,
+            "Type": "QualifiedWriteIn"
+        },
+        {
+            "Description": "ROBERT ARDINI",
+            "Id": 33,
+            "ExternalId": "",
+            "ContestId": 8,
+            "Type": "Regular"
+        },
+        {
+            "Description": "JOE WALSH",
+            "Id": 34,
+            "ExternalId": "",
+            "ContestId": 8,
+            "Type": "Regular"
+        },
+        {
+            "Description": "BILL WELD",
+            "Id": 35,
+            "ExternalId": "",
+            "ContestId": 8,
+            "Type": "Regular"
+        },
+        {
+            "Description": "ROQUE \"ROCKY\" DE LA FUENTE",
+            "Id": 36,
+            "ExternalId": "",
+            "ContestId": 8,
+            "Type": "Regular"
+        },
+        {
+            "Description": "MATTHEW JOHN MATERN",
+            "Id": 37,
+            "ExternalId": "",
+            "ContestId": 8,
+            "Type": "Regular"
+        },
+        {
+            "Description": "ZOLTAN G. ISTVAN",
+            "Id": 38,
+            "ExternalId": "",
+            "ContestId": 8,
+            "Type": "Regular"
+        },
+        {
+            "Description": "DONALD J. TRUMP",
+            "Id": 39,
+            "ExternalId": "",
+            "ContestId": 8,
+            "Type": "Regular"
+        },
+        {
+            "Description": "Write-in",
+            "Id": 175,
+            "ExternalId": "",
+            "ContestId": 8,
+            "Type": "WriteIn"
+        },
+        {
+            "Description": "DENIS C. GRASSKA",
+            "Id": 185,
+            "ExternalId": "",
+            "ContestId": 8,
+            "Type": "QualifiedWriteIn"
+        },
+        {
+            "Description": "ROBERT LEE MANNING JR.",
+            "Id": 186,
+            "ExternalId": "",
+            "ContestId": 8,
+            "Type": "QualifiedWriteIn"
+        },
+        {
+            "Description": "PHIL COLLINS",
+            "Id": 40,
+            "ExternalId": "",
+            "ContestId": 9,
+            "Type": "Regular"
+        },
+        {
+            "Description": "ROQUE \"ROCKY\" DE LA FUENTE",
+            "Id": 41,
+            "ExternalId": "",
+            "ContestId": 9,
+            "Type": "Regular"
+        },
+        {
+            "Description": "CHARLES KRAUT",
+            "Id": 42,
+            "ExternalId": "",
+            "ContestId": 9,
+            "Type": "Regular"
+        },
+        {
+            "Description": "J.R. MYERS",
+            "Id": 43,
+            "ExternalId": "",
+            "ContestId": 9,
+            "Type": "Regular"
+        },
+        {
+            "Description": "DON BLANKENSHIP",
+            "Id": 44,
+            "ExternalId": "",
+            "ContestId": 9,
+            "Type": "Regular"
+        },
+        {
+            "Description": "Write-in",
+            "Id": 172,
+            "ExternalId": "",
+            "ContestId": 9,
+            "Type": "WriteIn"
+        },
+        {
+            "Description": "DAVID ROLDE",
+            "Id": 45,
+            "ExternalId": "",
+            "ContestId": 10,
+            "Type": "Regular"
+        },
+        {
+            "Description": "HOWIE HAWKINS",
+            "Id": 46,
+            "ExternalId": "",
+            "ContestId": 10,
+            "Type": "Regular"
+        },
+        {
+            "Description": "DARIO HUNTER",
+            "Id": 47,
+            "ExternalId": "",
+            "ContestId": 10,
+            "Type": "Regular"
+        },
+        {
+            "Description": "DENNIS LAMBERT",
+            "Id": 48,
+            "ExternalId": "",
+            "ContestId": 10,
+            "Type": "Regular"
+        },
+        {
+            "Description": "SEDINAM MOYOWASIFZA-CURRY",
+            "Id": 49,
+            "ExternalId": "",
+            "ContestId": 10,
+            "Type": "Regular"
+        },
+        {
+            "Description": "Write-in",
+            "Id": 163,
+            "ExternalId": "",
+            "ContestId": 10,
+            "Type": "WriteIn"
+        },
+        {
+            "Description": "KENT MESPLAY",
+            "Id": 187,
+            "ExternalId": "",
+            "ContestId": 10,
+            "Type": "QualifiedWriteIn"
+        },
+        {
+            "Description": "HOWIE HAWKINS",
+            "Id": 50,
+            "ExternalId": "",
+            "ContestId": 11,
+            "Type": "Regular"
+        },
+        {
+            "Description": "GLORIA LA RIVA",
+            "Id": 51,
+            "ExternalId": "",
+            "ContestId": 11,
+            "Type": "Regular"
+        },
+        {
+            "Description": "Write-in",
+            "Id": 170,
+            "ExternalId": "",
+            "ContestId": 11,
+            "Type": "WriteIn"
+        },
+        {
+            "Description": "KEN ARMSTRONG",
+            "Id": 52,
+            "ExternalId": "",
+            "ContestId": 12,
+            "Type": "Regular"
+        },
+        {
+            "Description": "MAX ABRAMSON",
+            "Id": 53,
+            "ExternalId": "",
+            "ContestId": 12,
+            "Type": "Regular"
+        },
+        {
+            "Description": "SAM ROBB",
+            "Id": 54,
+            "ExternalId": "",
+            "ContestId": 12,
+            "Type": "Regular"
+        },
+        {
+            "Description": "KIM RUFF",
+            "Id": 55,
+            "ExternalId": "",
+            "ContestId": 12,
+            "Type": "Regular"
+        },
+        {
+            "Description": "STEVEN A RICHEY",
+            "Id": 56,
+            "ExternalId": "",
+            "ContestId": 12,
+            "Type": "Regular"
+        },
+        {
+            "Description": "JACOB HORNBERGER",
+            "Id": 57,
+            "ExternalId": "",
+            "ContestId": 12,
+            "Type": "Regular"
+        },
+        {
+            "Description": "SOURAYA FAAS",
+            "Id": 58,
+            "ExternalId": "",
+            "ContestId": 12,
+            "Type": "Regular"
+        },
+        {
+            "Description": "KEENAN WALLACE DUNHAM",
+            "Id": 59,
+            "ExternalId": "",
+            "ContestId": 12,
+            "Type": "Regular"
+        },
+        {
+            "Description": "ADAM KOKESH",
+            "Id": 60,
+            "ExternalId": "",
+            "ContestId": 12,
+            "Type": "Regular"
+        },
+        {
+            "Description": "VERMIN SUPREME",
+            "Id": 61,
+            "ExternalId": "",
+            "ContestId": 12,
+            "Type": "Regular"
+        },
+        {
+            "Description": "JO JORGENSEN",
+            "Id": 62,
+            "ExternalId": "",
+            "ContestId": 12,
+            "Type": "Regular"
+        },
+        {
+            "Description": "DAN BEHRMAN",
+            "Id": 63,
+            "ExternalId": "",
+            "ContestId": 12,
+            "Type": "Regular"
+        },
+        {
+            "Description": "ERIK CHASE GERHARDT",
+            "Id": 64,
+            "ExternalId": "",
+            "ContestId": 12,
+            "Type": "Regular"
+        },
+        {
+            "Description": "Write-in",
+            "Id": 176,
+            "ExternalId": "",
+            "ContestId": 12,
+            "Type": "WriteIn"
+        },
+        {
+            "Description": "NICHOLAS D'ARTAGNAN DUMAS",
+            "Id": 188,
+            "ExternalId": "",
+            "ContestId": 12,
+            "Type": "QualifiedWriteIn"
+        },
+        {
+            "Description": "GEBY EVA ESPINOSA",
+            "Id": 189,
+            "ExternalId": "",
+            "ContestId": 12,
+            "Type": "QualifiedWriteIn"
+        },
+        {
+            "Description": "JAMES ORLANDO OGLE",
+            "Id": 190,
+            "ExternalId": "",
+            "ContestId": 12,
+            "Type": "QualifiedWriteIn"
+        },
+        {
+            "Description": "SORINNE ARDELEANU",
+            "Id": 191,
+            "ExternalId": "",
+            "ContestId": 12,
+            "Type": "QualifiedWriteIn"
+        },
+        {
+            "Description": "KRISTEN ASATO-WEBB",
+            "Id": 110,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "JOHN AVALOS",
+            "Id": 111,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "NIMA RAHIMI",
+            "Id": 112,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "HILLARY RONEN",
+            "Id": 113,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "DAVID CAMPOS",
+            "Id": 114,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "CHRISTOPHER CHRISTENSEN",
+            "Id": 115,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "MIKE CHEN",
+            "Id": 116,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "MATT HANEY",
+            "Id": 117,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "RICK HAUPTMAN",
+            "Id": 118,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "SHAUN HAINES",
+            "Id": 119,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "FRANCES HSIEH",
+            "Id": 120,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "AUSTIN HUNTER",
+            "Id": 121,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "SHAMANN WALTON",
+            "Id": 122,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "SHANELL WILLIAMS",
+            "Id": 123,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "TYRA FENNELL",
+            "Id": 124,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "KEVIN ORTIZ",
+            "Id": 125,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "VICTOR OLIVIERI",
+            "Id": 126,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "NOMVULA O'MEARA",
+            "Id": 127,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "WILLIAM (ANUBIS) DAUGHERTY",
+            "Id": 128,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "MICK DEL ROSARIO",
+            "Id": 129,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "BEVAN DUFTY",
+            "Id": 130,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "JANE KIM",
+            "Id": 131,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "HONEY MAHOGANY",
+            "Id": 134,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "RAFAEL MANDELMAN",
+            "Id": 132,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "SOPHIE MAXWELL",
+            "Id": 133,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "CAROLE MIGDEN",
+            "Id": 135,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "DAVID VILLA-LOBOS",
+            "Id": 136,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "BIVETT BRACKETT",
+            "Id": 137,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "TAMI BRYANT",
+            "Id": 138,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "VALLIE BROWN",
+            "Id": 139,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "GLORIA BERRY",
+            "Id": 140,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "STEVEN BUSS",
+            "Id": 141,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "PETER GALLOTTA",
+            "Id": 142,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "ANABELL IBÁÑEZ",
+            "Id": 143,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "NANCY TUNG",
+            "Id": 144,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "Regular"
+        },
+        {
+            "Description": "Write-in",
+            "Id": 167,
+            "ExternalId": "",
+            "ContestId": 23,
+            "Type": "WriteIn"
+        },
+        {
+            "Description": "KAT ANDERSON",
+            "Id": 89,
+            "ExternalId": "",
+            "ContestId": 22,
+            "Type": "Regular"
+        },
+        {
+            "Description": "NADIA RAHMAN",
+            "Id": 90,
+            "ExternalId": "",
+            "ContestId": 22,
+            "Type": "Regular"
+        },
+        {
+            "Description": "MANO RAJU",
+            "Id": 91,
+            "ExternalId": "",
+            "ContestId": 22,
+            "Type": "Regular"
+        },
+        {
+            "Description": "ABRA PAULINE CASTLE",
+            "Id": 92,
+            "ExternalId": "",
+            "ContestId": 22,
+            "Type": "Regular"
+        },
+        {
+            "Description": "QUEENA CHEN",
+            "Id": 93,
+            "ExternalId": "",
+            "ContestId": 22,
+            "Type": "Regular"
+        },
+        {
+            "Description": "CYN WANG",
+            "Id": 94,
+            "ExternalId": "",
+            "ContestId": 22,
+            "Type": "Regular"
+        },
+        {
+            "Description": "LEAH LACROIX",
+            "Id": 95,
+            "ExternalId": "",
+            "ContestId": 22,
+            "Type": "Regular"
+        },
+        {
+            "Description": "SUZY LOFTUS",
+            "Id": 96,
+            "ExternalId": "",
+            "ContestId": 22,
+            "Type": "Regular"
+        },
+        {
+            "Description": "LI MIAO LOVETT",
+            "Id": 97,
+            "ExternalId": "",
+            "ContestId": 22,
+            "Type": "Regular"
+        },
+        {
+            "Description": "JANICE LI",
+            "Id": 98,
+            "ExternalId": "",
+            "ContestId": 22,
+            "Type": "Regular"
+        },
+        {
+            "Description": "JANE NATOLI",
+            "Id": 99,
+            "ExternalId": "",
+            "ContestId": 22,
+            "Type": "Regular"
+        },
+        {
+            "Description": "AHSHA SAFAI",
+            "Id": 100,
+            "ExternalId": "",
+            "ContestId": 22,
+            "Type": "Regular"
+        },
+        {
+            "Description": "GORDON MAR",
+            "Id": 101,
+            "ExternalId": "",
+            "ContestId": 22,
+            "Type": "Regular"
+        },
+        {
+            "Description": "SEEYEW MO",
+            "Id": 102,
+            "ExternalId": "",
+            "ContestId": 22,
+            "Type": "Regular"
+        },
+        {
+            "Description": "FAAUUGA MOLIGA",
+            "Id": 103,
+            "ExternalId": "",
+            "ContestId": 22,
+            "Type": "Regular"
+        },
+        {
+            "Description": "PAUL MIYAMOTO",
+            "Id": 104,
+            "ExternalId": "",
+            "ContestId": 22,
+            "Type": "Regular"
+        },
+        {
+            "Description": "MARY JUNG",
+            "Id": 105,
+            "ExternalId": "",
+            "ContestId": 22,
+            "Type": "Regular"
+        },
+        {
+            "Description": "KEITH BARAKA",
+            "Id": 106,
+            "ExternalId": "",
+            "ContestId": 22,
+            "Type": "Regular"
+        },
+        {
+            "Description": "KELLY AKEMI GROTH",
+            "Id": 107,
+            "ExternalId": "",
+            "ContestId": 22,
+            "Type": "Regular"
+        },
+        {
+            "Description": "A. J. THOMAS",
+            "Id": 108,
+            "ExternalId": "",
+            "ContestId": 22,
+            "Type": "Regular"
+        },
+        {
+            "Description": "MAWULI TUGBENYOH",
+            "Id": 109,
+            "ExternalId": "",
+            "ContestId": 22,
+            "Type": "Regular"
+        },
+        {
+            "Description": "Write-in",
+            "Id": 159,
+            "ExternalId": "",
+            "ContestId": 22,
+            "Type": "WriteIn"
+        },
+        {
+            "Description": "LISA REMMER",
+            "Id": 145,
+            "ExternalId": "",
+            "ContestId": 24,
+            "Type": "Regular"
+        },
+        {
+            "Description": "JOSEPH C ROBERTS",
+            "Id": 146,
+            "ExternalId": "",
+            "ContestId": 24,
+            "Type": "Regular"
+        },
+        {
+            "Description": "STEPHEN WAID",
+            "Id": 147,
+            "ExternalId": "",
+            "ContestId": 24,
+            "Type": "Regular"
+        },
+        {
+            "Description": "LEO LACAYO",
+            "Id": 148,
+            "ExternalId": "",
+            "ContestId": 24,
+            "Type": "Regular"
+        },
+        {
+            "Description": "RYAN LAM",
+            "Id": 149,
+            "ExternalId": "",
+            "ContestId": 24,
+            "Type": "Regular"
+        },
+        {
+            "Description": "CHRISTIAN FOSTER",
+            "Id": 150,
+            "ExternalId": "",
+            "ContestId": 24,
+            "Type": "Regular"
+        },
+        {
+            "Description": "JOSH YORK",
+            "Id": 151,
+            "ExternalId": "",
+            "ContestId": 24,
+            "Type": "Regular"
+        },
+        {
+            "Description": "EVE DEL CASTELLO",
+            "Id": 152,
+            "ExternalId": "",
+            "ContestId": 24,
+            "Type": "Regular"
+        },
+        {
+            "Description": "CHRIS WARD KLINE",
+            "Id": 153,
+            "ExternalId": "",
+            "ContestId": 24,
+            "Type": "Regular"
+        },
+        {
+            "Description": "ERIN SMITH",
+            "Id": 154,
+            "ExternalId": "",
+            "ContestId": 24,
+            "Type": "Regular"
+        },
+        {
+            "Description": "LARRY MARSO",
+            "Id": 155,
+            "ExternalId": "",
+            "ContestId": 24,
+            "Type": "Regular"
+        },
+        {
+            "Description": "NICOLE GARAY",
+            "Id": 156,
+            "ExternalId": "",
+            "ContestId": 24,
+            "Type": "Regular"
+        },
+        {
+            "Description": "CALE GARVERICK",
+            "Id": 157,
+            "ExternalId": "",
+            "ContestId": 24,
+            "Type": "Regular"
+        },
+        {
+            "Description": "KRISTA GARVERICK",
+            "Id": 158,
+            "ExternalId": "",
+            "ContestId": 24,
+            "Type": "Regular"
+        },
+        {
+            "Description": "Write-in",
+            "Id": 171,
+            "ExternalId": "",
+            "ContestId": 24,
+            "Type": "WriteIn"
+        },
+        {
+            "Description": "DEANNA LORRAINE",
+            "Id": 70,
+            "ExternalId": "",
+            "ContestId": 13,
+            "Type": "Regular"
+        },
+        {
+            "Description": "JOHN DENNIS",
+            "Id": 65,
+            "ExternalId": "",
+            "ContestId": 13,
+            "Type": "Regular"
+        },
+        {
+            "Description": "NANCY PELOSI",
+            "Id": 66,
+            "ExternalId": "",
+            "ContestId": 13,
+            "Type": "Regular"
+        },
+        {
+            "Description": "AGATHA BACELAR",
+            "Id": 67,
+            "ExternalId": "",
+            "ContestId": 13,
+            "Type": "Regular"
+        },
+        {
+            "Description": "SHAHID BUTTAR",
+            "Id": 68,
+            "ExternalId": "",
+            "ContestId": 13,
+            "Type": "Regular"
+        },
+        {
+            "Description": "TOM GALLAGHER",
+            "Id": 69,
+            "ExternalId": "",
+            "ContestId": 13,
+            "Type": "Regular"
+        },
+        {
+            "Description": "Write-in",
+            "Id": 173,
+            "ExternalId": "",
+            "ContestId": 13,
+            "Type": "WriteIn"
+        },
+        {
+            "Description": "BARBARA LEE",
+            "Id": 71,
+            "ExternalId": "",
+            "ContestId": 14,
+            "Type": "Regular"
+        },
+        {
+            "Description": "NIKKA PITERMAN",
+            "Id": 72,
+            "ExternalId": "",
+            "ContestId": 14,
+            "Type": "Regular"
+        },
+        {
+            "Description": "Write-in",
+            "Id": 166,
+            "ExternalId": "",
+            "ContestId": 14,
+            "Type": "WriteIn"
+        },
+        {
+            "Description": "JACKIE SPEIER",
+            "Id": 73,
+            "ExternalId": "",
+            "ContestId": 15,
+            "Type": "Regular"
+        },
+        {
+            "Description": "RAN S. PETEL",
+            "Id": 74,
+            "ExternalId": "",
+            "ContestId": 15,
+            "Type": "Regular"
+        },
+        {
+            "Description": "CRISTOS GOODROW",
+            "Id": 75,
+            "ExternalId": "",
+            "ContestId": 15,
+            "Type": "Regular"
+        },
+        {
+            "Description": "ERIC TAYLOR",
+            "Id": 76,
+            "ExternalId": "",
+            "ContestId": 15,
+            "Type": "Regular"
+        },
+        {
+            "Description": "Write-in",
+            "Id": 174,
+            "ExternalId": "",
+            "ContestId": 15,
+            "Type": "WriteIn"
+        },
+        {
+            "Description": "SCOTT WIENER",
+            "Id": 78,
+            "ExternalId": "",
+            "ContestId": 16,
+            "Type": "Regular"
+        },
+        {
+            "Description": "ERIN SMITH",
+            "Id": 77,
+            "ExternalId": "",
+            "ContestId": 16,
+            "Type": "Regular"
+        },
+        {
+            "Description": "JACKIE FIELDER",
+            "Id": 79,
+            "ExternalId": "",
+            "ContestId": 16,
+            "Type": "Regular"
+        },
+        {
+            "Description": "Write-in",
+            "Id": 164,
+            "ExternalId": "",
+            "ContestId": 16,
+            "Type": "WriteIn"
+        },
+        {
+            "Description": "DAVID CHIU",
+            "Id": 82,
+            "ExternalId": "",
+            "ContestId": 18,
+            "Type": "Regular"
+        },
+        {
+            "Description": "Write-in",
+            "Id": 168,
+            "ExternalId": "",
+            "ContestId": 18,
+            "Type": "WriteIn"
+        },
+        {
+            "Description": "STARCHILD",
+            "Id": 177,
+            "ExternalId": "",
+            "ContestId": 18,
+            "Type": "QualifiedWriteIn"
+        },
+        {
+            "Description": "JOHN P. MCDONNELL",
+            "Id": 80,
+            "ExternalId": "",
+            "ContestId": 17,
+            "Type": "Regular"
+        },
+        {
+            "Description": "PHIL TING",
+            "Id": 81,
+            "ExternalId": "",
+            "ContestId": 17,
+            "Type": "Regular"
+        },
+        {
+            "Description": "Write-in",
+            "Id": 162,
+            "ExternalId": "",
+            "ContestId": 17,
+            "Type": "WriteIn"
+        },
+        {
+            "Description": "MARIA ELENA EVANGELISTA",
+            "Id": 83,
+            "ExternalId": "",
+            "ContestId": 19,
+            "Type": "Regular"
+        },
+        {
+            "Description": "PANG LY",
+            "Id": 84,
+            "ExternalId": "",
+            "ContestId": 19,
+            "Type": "Regular"
+        },
+        {
+            "Description": "Write-in",
+            "Id": 169,
+            "ExternalId": "",
+            "ContestId": 19,
+            "Type": "WriteIn"
+        },
+        {
+            "Description": "DOROTHY CHOU PROUDFOOT",
+            "Id": 85,
+            "ExternalId": "",
+            "ContestId": 20,
+            "Type": "Regular"
+        },
+        {
+            "Description": "MICHELLE TONG",
+            "Id": 86,
+            "ExternalId": "",
+            "ContestId": 20,
+            "Type": "Regular"
+        },
+        {
+            "Description": "Write-in",
+            "Id": 160,
+            "ExternalId": "",
+            "ContestId": 20,
+            "Type": "WriteIn"
+        },
+        {
+            "Description": "KULVINDAR \"RANI\" SINGH",
+            "Id": 87,
+            "ExternalId": "",
+            "ContestId": 21,
+            "Type": "Regular"
+        },
+        {
+            "Description": "CAROLYN GOLD",
+            "Id": 88,
+            "ExternalId": "",
+            "ContestId": 21,
+            "Type": "Regular"
+        },
+        {
+            "Description": "Write-in",
+            "Id": 165,
+            "ExternalId": "",
+            "ContestId": 21,
+            "Type": "WriteIn"
+        },
+        {
+            "Description": "YES",
+            "Id": 1,
+            "ExternalId": "",
+            "ContestId": 1,
+            "Type": "Regular"
+        },
+        {
+            "Description": "NO",
+            "Id": 2,
+            "ExternalId": "",
+            "ContestId": 1,
+            "Type": "Regular"
+        },
+        {
+            "Description": "YES",
+            "Id": 3,
+            "ExternalId": "",
+            "ContestId": 2,
+            "Type": "Regular"
+        },
+        {
+            "Description": "NO",
+            "Id": 4,
+            "ExternalId": "",
+            "ContestId": 2,
+            "Type": "Regular"
+        },
+        {
+            "Description": "YES",
+            "Id": 5,
+            "ExternalId": "",
+            "ContestId": 3,
+            "Type": "Regular"
+        },
+        {
+            "Description": "NO",
+            "Id": 6,
+            "ExternalId": "",
+            "ContestId": 3,
+            "Type": "Regular"
+        },
+        {
+            "Description": "YES",
+            "Id": 7,
+            "ExternalId": "",
+            "ContestId": 4,
+            "Type": "Regular"
+        },
+        {
+            "Description": "NO",
+            "Id": 8,
+            "ExternalId": "",
+            "ContestId": 4,
+            "Type": "Regular"
+        },
+        {
+            "Description": "YES",
+            "Id": 9,
+            "ExternalId": "",
+            "ContestId": 5,
+            "Type": "Regular"
+        },
+        {
+            "Description": "NO",
+            "Id": 10,
+            "ExternalId": "",
+            "ContestId": 5,
+            "Type": "Regular"
+        },
+        {
+            "Description": "YES",
+            "Id": 11,
+            "ExternalId": "",
+            "ContestId": 6,
+            "Type": "Regular"
+        },
+        {
+            "Description": "NO",
+            "Id": 12,
+            "ExternalId": "",
+            "ContestId": 6,
+            "Type": "Regular"
+        }
+    ]
+}
